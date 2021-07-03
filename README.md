@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 - 👨‍💻 Motivated to learn, grow and excel in IT industry.
 - ✨ A lifelong learner.
-- 📫 How to reach me;<br>
+- 📫 How to reach me;<br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=umitarat8098@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/)
 
