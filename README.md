@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@umitarat8098)
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p>
 
 
 
