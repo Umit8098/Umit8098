@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > </p>
 <br>
-<p align="center">
+<p>
 ![](https://komarev.com/ghpvc/?username=Umit8098)<br>
 </p>
