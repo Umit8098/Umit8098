@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=Umit8098) -->
 
-
 <hr>
 <br><br>
+
 ## 💻 Frontend
 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="60"/> </a>
