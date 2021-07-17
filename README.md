@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Umit8098) -->
-
+<br>
 
 ## 💻 Frontend
 
