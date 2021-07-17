@@ -26,11 +26,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p>
 
-
-
 <!-- ![](https://komarev.com/ghpvc/?username=Umit8098) -->
 
-<br>
 
 ## 💻 Frontend
 
@@ -44,7 +41,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 
-<br><br>
+<br>
 
 ## 💻 Backend
 
@@ -53,7 +50,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
 
-<br><br>
+<br>
 
 ## ⚙ Tools
 
@@ -67,8 +64,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
-<br><br>
-
+<br>
 
 <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
 
@@ -81,11 +77,9 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > </p>
-<br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
  -->
-
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p> -->
