@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 💻 Frontend
+### 💻 Frontend
 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="60"/> </a>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## 💻 Backend
+### 💻 Backend
 
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## ⚙ Tools
+### ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="ts" height="50"/> </a>
