@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 <br><br>
 
 
-
 <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
 
 <hr>
@@ -81,12 +80,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > </p>
 <br>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
+ -->
 
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p> -->
