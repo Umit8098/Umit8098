@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=buefy&" alt="my commit status" width="49%" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Umit8098)<br>
