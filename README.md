@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
+<br><br>
 
 ## 💻 Backend
 
@@ -52,6 +53,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
+<br><br>
 
 ## ⚙ Tools
 
