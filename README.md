@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Motivated to learn, grow and excel in IT industry.
 - ✨ A lifelong learner.
 - 📫 How to reach me;
-- <br><br>
+<br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=umitarat8098@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16468871/umit-arat)
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
+
+<hr>
 
 ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png)
 
