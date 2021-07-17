@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="30%" /><hr>
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="49%" > </p>
 <br>
 
