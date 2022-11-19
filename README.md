@@ -96,4 +96,4 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Umit8098/Umit8098/blob/output/github-contribution-grid-snake.svg)
