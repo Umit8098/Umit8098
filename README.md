@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAltas&theme=blue-green" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api?username=Umit8098&theme=onedark " alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" /> </p>
 
