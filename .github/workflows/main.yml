@@ -17,7 +17,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: umit8098
-          outputs: dist/snake.svg
+          outputs:
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Commit and push the generated snake.svg to the output branch
       - name: Commit and push changes
