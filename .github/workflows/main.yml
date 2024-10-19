@@ -14,7 +14,7 @@ jobs:
 
     steps:
       # Checkout the repository
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Generate the snake animation and export it as a .svg file
       - uses: Platane/snk@v3
@@ -24,7 +24,8 @@ jobs:
 
       # Upload the .svg file to the output branch
       - name: Push Snake Animation to output branch
-        uses: ad-m/github-push-action@v0.6.0
+        uses: github-actions-x/commit@v3
         with:
           branch: output
           file: dist/snake.svg
+          message: "Snake animation update"
