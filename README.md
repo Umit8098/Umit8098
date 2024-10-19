@@ -93,5 +93,4 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/umit8098/umit8098/blob/output/github-contribution-grid-snake.svg)
 
 <p>snake</p>
-![Snake animation](https://raw.githubusercontent.com/umit8098/output/github-contribution-grid-snake-dark.svg)
-<!--![snake gif](https://raw.githubusercontent.com/Umit8098/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://raw.githubusercontent.com/Umit8098/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
