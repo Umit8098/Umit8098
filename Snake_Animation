@@ -1,0 +1,36 @@
+main.yml ->
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Generate the snake animation and export it as a .svg file
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: umit8098
+          outputs: dist/snake.svg
+            
+      # Commit and push the generated snake.svg to the output branch
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated Snake Animation"
+          branch: output
+          file_pattern: dist/snake.svg
+
+
+Readme ->
+<!-- 
+### 🐍 Snake Animation
+![Snake animation](https://github.com/umit8098/umit8098/blob/output/github-contribution-grid-snake.svg)
+-->
