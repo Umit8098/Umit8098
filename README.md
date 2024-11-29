@@ -93,5 +93,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg)
 
 
+
+<!-- Çalışıyor. -->
 <!-- ![](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg) -->
 
