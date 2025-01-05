@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 💻 Frontend
 
-<a href="#" target="_blank"> <img src="https://ddy8ftb0naev0.cloudfront.net/assets/42/original/html5_and_css3.webp" alt="html" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
