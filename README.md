@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 🔴 ***Tour-Places-React-Js*** .................https://umit8098.github.io/React_Proj_Tour_Places/      <br>
 🔴 ***Language-Cards-React-Js*** .........https://umit8098.github.io/React-Project-Language-Cards/      <br>
 🔴 ***Tutorial-FullStack-Proj-React-Js*** ...https://umit8098.github.io/React-Project-Tutorial-FullStack/      <br>
-🔴 ***Task-Tracker-React-Js*** ......https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/      <br>
+🔴 ***Task-Tracker-React-Js*** ..........https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/      <br>
 
 
 
