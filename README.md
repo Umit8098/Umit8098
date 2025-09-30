@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 🔴 ***Stock_App*** ............Django_Rest_Framework....https://umit8103.pythonanywhere.com/      <br>
 🔴 ***Rent_A_Car_App*** ...Django_Rest_Framework....https://umit8104.pythonanywhere.com/  <br>
 🔴 ***Todo_App*** .............Django_Templates....https://umit8106.pythonanywhere.com/           <br>
-🔴 ***Weather_App*** .....Django_Templates....https://umit8108.pythonanywhere.com/         <br>
+🔴 ***Weather_App*** .......Django_Templates....https://umit8108.pythonanywhere.com/         <br>
 🔴 ***Auth_Dj_Allauth_Google*** .....Django_Rest_Framework....https://umit8110.pythonanywhere.com/   <br>
-🔴 ***Pizza_App***  ..........Django_Templates....https://umit8111.pythonanywhere.com/        <br>
+🔴 ***Pizza_App***  ............Django_Templates....https://umit8111.pythonanywhere.com/        <br>
 <br>
 
 ## ⚙ Tools
