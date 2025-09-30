@@ -106,7 +106,6 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" height="50"/> </a>
 <a href="#" target="_blank"> <img src="logo/Visual_Studio_Code_icon.png" alt="visual-studio" height="50"/> </a>
-<!--<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>-->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png" alt="gitHub" height="50"/> </a>
@@ -147,4 +146,5 @@ Here are some ideas to get you started:
 
 <!-- Çalışıyor. -->
 <!-- ![](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg) -->
+<!--<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>-->
 
