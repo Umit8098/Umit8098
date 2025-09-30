@@ -120,8 +120,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight&" alt="my commit status" width="49%" /> </p>
 
-<hr>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="49%" >
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
@@ -139,7 +137,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p> -->
 
-### 🐍 Snake Animation
+
+## 🐍 Snake Animation
+
 <!-- ![Snake animation](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake-dark.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg)
 
