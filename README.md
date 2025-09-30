@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 ### ***Frontend Projects*** 
-🔴 ***SASS-Project*** ............................https://umit8098.github.io/Project-Website-HTML-CSS-SASS/           <br>
-🔴 ***Bootstrap-Project*** ....................https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/   <br>
-🔴 ***Checkout-Shopping-Cart-Js*** ..https://umit8098.github.io/Project-js-checkout-shopping_cart/       <br>
-🔴 ***ToDo-Js*** .....................................https://umit8098.github.io/Project-js-ToDo-LocalStorage/       <br>
-🔴 ***IOS-Calculator-Js*** .....................https://umit8098.github.io/Project-js-IOS-Calculator/       <br>
-🔴 ***Flag-App-Js*** ..............................https://umit8098.github.io/Project-js-Flag-App/       <br>
-🔴 ***Tour-Places-React-Js*** ..............https://umit8098.github.io/React_Proj_Tour_Places/      <br>
-🔴 ***Language-Cards-React-Js*** ......https://umit8098.github.io/React-Project-Language-Cards/      <br>
+🔴 ***SASS-Project*** ...............................https://umit8098.github.io/Project-Website-HTML-CSS-SASS/           <br>
+🔴 ***Bootstrap-Project*** .......................https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/   <br>
+🔴 ***Checkout-Shopping-Cart-Js*** .....https://umit8098.github.io/Project-js-checkout-shopping_cart/       <br>
+🔴 ***ToDo-Js*** ........................................https://umit8098.github.io/Project-js-ToDo-LocalStorage/       <br>
+🔴 ***IOS-Calculator-Js*** ........................https://umit8098.github.io/Project-js-IOS-Calculator/       <br>
+🔴 ***Flag-App-Js*** .................................https://umit8098.github.io/Project-js-Flag-App/       <br>
+🔴 ***Tour-Places-React-Js*** .................https://umit8098.github.io/React_Proj_Tour_Places/      <br>
+🔴 ***Language-Cards-React-Js*** .........https://umit8098.github.io/React-Project-Language-Cards/      <br>
 🔴 ***Tutorial-FullStack-Proj-React-Js*** ...https://umit8098.github.io/React-Project-Tutorial-FullStack/      <br>
 
 
