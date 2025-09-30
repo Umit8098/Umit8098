@@ -23,7 +23,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
-## 💻 Frontend  
+# 💻 Frontend  
 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/></a>
