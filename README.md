@@ -94,19 +94,6 @@ Here are some ideas to get you started:
 | 🍕 Pizza App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8111.pythonanywhere.com/) |
 
 
-## ⚙ Tools
-
-<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" height="50"/> </a>
-<a href="#" target="_blank"> <img src="logo/Visual_Studio_Code_icon.png" alt="visual-studio" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png" alt="gitHub" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
-<a href="#" target="_blank"> <img src="logo/postman_logo.png" height="50"/> </a>
-<a href="#" target="_blank"> <img src="logo/docker_logo.png" height="50"/> </a>
-
-
 
 ## 🛠 Tools  
 
@@ -123,6 +110,19 @@ Here are some ideas to get you started:
 <br>
 
  <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
+
+
+<hr>
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&layout=compact&theme=tokyonight" width="49%"/>
+</p>
 
 <hr>
 
