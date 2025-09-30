@@ -187,7 +187,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" /> </p>
 
-<hr>
+
 
 <p align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > -->
