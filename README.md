@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 **Umit8098/Umit8098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
