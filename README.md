@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 🔴 ***ToDo-Js*** .....................................https://umit8098.github.io/Project-js-ToDo-LocalStorage/       <br>
 🔴 ***IOS-Calculator-Js*** .....................https://umit8098.github.io/Project-js-IOS-Calculator/       <br>
 🔴 ***Flag-App-Js*** ..............................https://umit8098.github.io/Project-js-Flag-App/       <br>
-🔴 ***Tour-Places-React-Js*** ...............https://umit8098.github.io/React_Proj_Tour_Places/      <br>
+🔴 ***Tour-Places-React-Js*** .............https://umit8098.github.io/React_Proj_Tour_Places/      <br>
 
 
 
