@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 | 📊 Stock API | Django REST Framework | [Live Demo](https://umit8103.pythonanywhere.com/) |
 | 🚗 Rent A Car API | Django REST Framework | [Live Demo](https://umit8104.pythonanywhere.com/) |
 | Auth_Dj_Allauth_Google API | Django Rest Framework | [Demo](https://umit8110.pythonanywhere.com/) |
-| 📝 Blog APP FullStack | Django Rest, Django_Templates | [Demo](https://umit8112.pythonanywhere.com/) |
-| ✅ Todo APP FullStack | Django Rest, Django_Templates | [Demo](https://umit8106.pythonanywhere.com/) |
-| 🌦️ Weather App FullStack | Django Rest, Django Templates | [Live Demo](https://umit8108.pythonanywhere.com/) |
-| 🍕 Pizza App FullStack | Django Rest, Django Templates | [Live Demo](https://umit8111.pythonanywhere.com/) |
+| 📝 Blog APP | Django Rest, Django_Templates, FullStack | [Demo](https://umit8112.pythonanywhere.com/) |
+| ✅ Todo APP | Django Rest, Django_Templates, FullStack | [Demo](https://umit8106.pythonanywhere.com/) |
+| 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) |
+| 🍕 Pizza App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8111.pythonanywhere.com/) |
 
 
 ## ⚙ Tools
