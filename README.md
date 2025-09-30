@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
+
+
 <!-- ### ***Backend Projects*** -->
 <!--🔴 ***Flight_App*** .............Django_Rest_Framework....https://umit8113.pythonanywhere.com/     <br>-->
 <!--🔴 ***Blog_App*** ...............Django_Rest_Framework....https://umit8099.pythonanywhere.com/       <br>-->
@@ -83,12 +85,21 @@ Here are some ideas to get you started:
 
 <br>
 
+### 🚀 Backend Projects
 | Project | Stack | Live Demo |
 |----------|-------|-----------|
 | Flight API | Django Rest | [Demo](https://umit8113.pythonanywhere.com/) |
 | Blog API | Django Rest | [Demo](https://umit8114.pythonanywhere.com/) |
-| Blog APP | Django Rest, Django_Templates | [Demo](https://umit8112.pythonanywhere.com/) |
+| Personnel API | Django Rest | [Demo](https://umit8100.pythonanywhere.com/) |
+| Todo API | Django Rest | [Demo](https://umit8101.pythonanywhere.com/) |
+| Quiz API | Django Rest | [Demo](http://umit8102.pythonanywhere.com/) |
 | Stock API | Django Rest | [Demo](https://umit8103.pythonanywhere.com/) |
+| Rent_A_Car API | Django Rest | [Demo](https://umit8104.pythonanywhere.com/) |
+| Auth_Dj_Allauth_Google API | Django Rest | [Demo](https://umit8110.pythonanywhere.com/) |
+| Blog APP | Django Rest, Django_Templates | [Demo](https://umit8112.pythonanywhere.com/) |
+| Todo APP | Django Rest, Django_Templates | [Demo](https://umit8106.pythonanywhere.com/) |
+| Weather APP | Django Rest, Django_Templates | [Demo](https://umit8108.pythonanywhere.com/) |
+| Pizza APP | Django Rest, Django_Templates | [Demo](https://umit8111.pythonanywhere.com/) |
 
 
 ## ⚙ Tools
