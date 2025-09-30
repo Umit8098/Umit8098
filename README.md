@@ -73,6 +73,15 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
 
+## ⚙ Backend  
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/></a>
+
+
 
 <!-- ### ***Backend Projects*** -->
 <!--🔴 ***Flight_App*** .............Django_Rest_Framework....https://umit8113.pythonanywhere.com/     <br>-->
@@ -91,7 +100,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🚀 Backend Projects
+### 🚀 Featured Backend Projects  
 | Project | Stack | Live Demo |
 |----------|-------|-----------|
 | Flight API | Django Rest | [Demo](https://umit8113.pythonanywhere.com/) |
