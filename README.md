@@ -8,9 +8,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 🚀 Focused on building scalable web apps and exploring new technologies.  
 ✨ A lifelong learner, motivated to grow and excel in the IT industry.  
 
-- 🌱 Currently learning: Python, JavaScript, React, Django, WordPress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Bootstrap  
-- 👯 Always open to collaboration on exciting Full-Stack projects  
-- 📫 How to reach me:  
+🌱 Currently learning: Python, JavaScript, React, Django, WordPress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Bootstrap  
+👯 Always open to collaboration on exciting Full-Stack projects  
+📫 How to reach me:  
 
 <br>
 
