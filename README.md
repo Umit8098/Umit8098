@@ -134,18 +134,6 @@ Here are some ideas to get you started:
 
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=blue-green" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&layout=compact&theme=tokyonight" width="400"/>
-    </td>
-  </tr>
-</table>
-
-
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
