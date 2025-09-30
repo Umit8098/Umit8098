@@ -26,17 +26,7 @@ Here are some ideas to get you started:
 - ✨ A lifelong learner.
 - 📫 How to reach me;
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" width="50%" /> </p>
-
-<!-- ![](https://komarev.com/ghpvc/?username=Umit8098) -->
 <br>
-
-
-
 
 ## 💻 Frontend  
 
@@ -122,6 +112,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="49%" >
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" width="20%" /> </p>
+<!-- ![](https://komarev.com/ghpvc/?username=Umit8098) -->
 
 <br>
 
