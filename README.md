@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 🔴 ***Blog_App***  ...............Django_Templates....https://umit8112.pythonanywhere.com/           <br>
 🔴 ***Blog_App V.2*** ........Django_Rest_Framework....https://umit8114.pythonanywhere.com/  <br>
 🔴 ***Personnel_App*** .....Django_Rest_Framework....https://umit8100.pythonanywhere.com/  <br>
-🔴 ***Todo_App***  .............Django_Rest_Framework....https://umit8101.pythonanywhere.com/      <br>
-🔴 ***Quiz_App*** ..............Django_Rest_Framework....http://umit8102.pythonanywhere.com/        <br>
-🔴 ***Stock_App*** ............Django_Rest_Framework....https://umit8103.pythonanywhere.com/      <br>
+🔴 ***Todo_App***  ..............Django_Rest_Framework....https://umit8101.pythonanywhere.com/      <br>
+🔴 ***Quiz_App*** ...............Django_Rest_Framework....http://umit8102.pythonanywhere.com/        <br>
+🔴 ***Stock_App*** .............Django_Rest_Framework....https://umit8103.pythonanywhere.com/      <br>
 🔴 ***Rent_A_Car_App*** ...Django_Rest_Framework....https://umit8104.pythonanywhere.com/  <br>
 🔴 ***Todo_App*** .............Django_Templates....https://umit8106.pythonanywhere.com/           <br>
 🔴 ***Weather_App*** .......Django_Templates....https://umit8108.pythonanywhere.com/         <br>
