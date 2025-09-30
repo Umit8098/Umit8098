@@ -127,9 +127,6 @@ Here are some ideas to get you started:
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&layout=compact&theme=tokyonight" width="49%"/>
-</p>
 
 
 
