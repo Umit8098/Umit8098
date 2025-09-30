@@ -75,38 +75,23 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/></a>
 
-
-
-
 <br>
-
-### 🚀 Featured Backend Projects  
-| Project | Stack | Live Demo |
-|----------|-------|-----------|
-| Flight API | Django Rest | [Demo](https://umit8113.pythonanywhere.com/) |
-| Blog API | Django Rest | [Demo](https://umit8114.pythonanywhere.com/) |
-| Personnel API | Django Rest | [Demo](https://umit8100.pythonanywhere.com/) |
-| Todo API | Django Rest | [Demo](https://umit8101.pythonanywhere.com/) |
-| Quiz API | Django Rest | [Demo](http://umit8102.pythonanywhere.com/) |
-| Stock API | Django Rest | [Demo](https://umit8103.pythonanywhere.com/) |
-| Rent_A_Car API | Django Rest | [Demo](https://umit8104.pythonanywhere.com/) |
-| Auth_Dj_Allauth_Google API | Django Rest | [Demo](https://umit8110.pythonanywhere.com/) |
-| Blog APP | Django Rest, Django_Templates | [Demo](https://umit8112.pythonanywhere.com/) |
-| Todo APP | Django Rest, Django_Templates | [Demo](https://umit8106.pythonanywhere.com/) |
-| Weather APP | Django Rest, Django_Templates | [Demo](https://umit8108.pythonanywhere.com/) |
-| Pizza APP | Django Rest, Django_Templates | [Demo](https://umit8111.pythonanywhere.com/) |
-
 
 ### 🚀 Featured Backend Projects  
 | Project | Stack | Demo |
 |---------|-------|------|
 | ✈️ Flight App | Django REST Framework | [Live Demo](https://umit8113.pythonanywhere.com/) |
-| 📝 Blog API | Django REST Framework | [Live Demo](https://umit8099.pythonanywhere.com/) |
+| 📝 Blog API | Django REST Framework | [Live Demo](https://umit8114.pythonanywhere.com/) |
 | 👤 Personnel App | Django REST Framework | [Live Demo](https://umit8100.pythonanywhere.com/) |
+| ✅ Todo API | Django Rest Framework | [Demo](https://umit8101.pythonanywhere.com/) |
+| Quiz API | Django Rest Framework | [Demo](http://umit8102.pythonanywhere.com/) |
 | 📊 Stock API | Django REST Framework | [Live Demo](https://umit8103.pythonanywhere.com/) |
 | 🚗 Rent A Car API | Django REST Framework | [Live Demo](https://umit8104.pythonanywhere.com/) |
-| 🌦️ Weather App | Django Templates | [Live Demo](https://umit8108.pythonanywhere.com/) |
-| 🍕 Pizza App | Django Templates | [Live Demo](https://umit8111.pythonanywhere.com/) |
+| Auth_Dj_Allauth_Google API | Django Rest Framework | [Demo](https://umit8110.pythonanywhere.com/) |
+| 📝 Blog APP FullStack | Django Rest, Django_Templates | [Demo](https://umit8112.pythonanywhere.com/) |
+| ✅ Todo APP FullStack | Django Rest, Django_Templates | [Demo](https://umit8106.pythonanywhere.com/) |
+| 🌦️ Weather App FullStack | Django Rest, Django Templates | [Live Demo](https://umit8108.pythonanywhere.com/) |
+| 🍕 Pizza App FullStack | Django Rest, Django Templates | [Live Demo](https://umit8111.pythonanywhere.com/) |
 
 
 ## ⚙ Tools
@@ -120,6 +105,19 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 <a href="#" target="_blank"> <img src="logo/postman_logo.png" height="50"/> </a>
 <a href="#" target="_blank"> <img src="logo/docker_logo.png" height="50"/> </a>
+
+
+
+## 🛠 Tools  
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50"/></a>
 
 <br>
 
@@ -166,7 +164,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  <!-- ### ***Backend Projects*** -->
+<!-- ### ***Backend Projects*** -->
 <!--🔴 ***Flight_App*** .............Django_Rest_Framework....https://umit8113.pythonanywhere.com/     <br>-->
 <!--🔴 ***Blog_App*** ...............Django_Rest_Framework....https://umit8099.pythonanywhere.com/       <br>-->
 <!--🔴 ***Blog_App***  ...............Django_Templates..............https://umit8112.pythonanywhere.com/  <br>-->
