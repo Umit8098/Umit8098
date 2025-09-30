@@ -39,7 +39,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | Project | Demo Link | Tech |
 |---------|-----------|------|
 | 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass |
-| 🎨 Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS |
+| 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS |
 | 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript, LocalStorage, SessionStorage |
 | ✅ ToDo App | [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | JavaScript, LocalStorage |
 | 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript |
