@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <br>
 
- <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
+  ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png)
 
 
 ## 📊 GitHub Stats  
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" width="20%" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" width="15%" /> </p>
 
 <br>
 
