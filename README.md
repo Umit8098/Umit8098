@@ -47,33 +47,20 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://mui.com/static/logo.png" height="50"/></a>
 
 
-### 🚀 Frontend Projects
-| Project | Live Demo | Tech |
-|---------|-----------|------|
-| 🟢 SASS-Project | [Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | SASS, Js |
-| 🟢 Bootstrap-Project | [Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap, Js |
-| 🟢 Checkout-Shopping-Cart-Js | [Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | Js, LocalStorage, SessionStorage |
-| 🟢 ToDo | [Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | Js, LocalStorage |
-| 🟢 IOS-Calculator | [Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | Js |
-| 🟢 Flag-App | [Demo](https://umit8098.github.io/Project-js-Flag-App/ ) | Js |
-| 🟢 Tour-Places | [Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | SASS, React Js |
-| 🟢 Tutorial FullStack | [Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React Js, python-Django |
-| 🟢 Language Cards | [Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React Js |
-| 🟢 Task-Tracker | [Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React Js, LocalStorage |
-
 
 ### 🚀 Featured Frontend Projects  
 
 | Project | Demo Link | Tech |
 |---------|-----------|------|
 | 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass |
-| 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript |
+| 🎨 Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS |
+| 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript, LocalStorage, SessionStorage |
 | ✅ ToDo App | [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | JavaScript, LocalStorage |
 | 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript |
 | 🚩 Flag App | [Live Demo](https://umit8098.github.io/Project-js-Flag-App/) | JavaScript, API |
-| 🗺️ Tour Places | [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | React |
+| 🗺️ Tour Places | [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | Sass, React |
 | 🗣️ Language Cards | [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React |
-| 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React |
+| 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React, Django |
 | 📋 Task Tracker | [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage |
 
 
