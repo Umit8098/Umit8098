@@ -125,9 +125,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
- -->
+ 
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p> -->
 
