@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight" width="51%"/>
 </p>
 
 <p align="center">
@@ -126,8 +126,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="left">
 
+<p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" /> </p>
 
@@ -137,6 +137,11 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=blue-green" alt="my github stats" width="49%"/>
 </p>
+
+
+
+
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
