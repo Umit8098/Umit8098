@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ### 🚀 Frontend Projects
 | Project | Live Demo | Tech |
 |---------|-----------|------|
-| 🟢 SASS-Project | [Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | SASS |
-| 🟢 Bootstrap-Project | [Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap |
-| 🟢 Checkout-Shopping-Cart-Js | [Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | Js |
+| 🟢 SASS-Project | [Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | SASS, Js |
+| 🟢 Bootstrap-Project | [Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap, Js |
+| 🟢 Checkout-Shopping-Cart-Js | [Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | Js, LocalStorage, SessionStorage |
 | 🟢 ToDo | [Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | Js, LocalStorage |
 | 🟢 IOS-Calculator | [Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | Js |
 | 🟢 Flag-App | [Demo](https://umit8098.github.io/Project-js-Flag-App/ ) | Js |
