@@ -116,11 +116,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight" width="50%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
