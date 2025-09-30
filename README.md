@@ -62,6 +62,20 @@ Here are some ideas to get you started:
 | 🟢 Task-Tracker | [Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React Js, LocalStorage |
 
 
+### 🚀 Featured Frontend Projects  
+
+| Project | Demo Link | Tech |
+|---------|-----------|------|
+| 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass |
+| 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript |
+| ✅ ToDo App | [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | JavaScript, LocalStorage |
+| 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript |
+| 🚩 Flag App | [Live Demo](https://umit8098.github.io/Project-js-Flag-App/) | JavaScript, API |
+| 🗺️ Tour Places | [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | React |
+| 🗣️ Language Cards | [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React |
+| 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React |
+| 📋 Task Tracker | [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage |
+
 
 <br>
 
