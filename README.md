@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 🔴 ***Flag-App-Js*** ..............................https://umit8098.github.io/Project-js-Flag-App/       <br>
 🔴 ***Tour-Places-React-Js*** ..............https://umit8098.github.io/React_Proj_Tour_Places/      <br>
 🔴 ***Language-Cards-React-Js*** ......https://umit8098.github.io/React-Project-Language-Cards/      <br>
-🔴 ***Tutorial-FullStack-Proj-React-Js*** ...umit8098.github.io/React-Project-Tutorial-FullStack/      <br>
+🔴 ***Tutorial-FullStack-Proj-React-Js*** ...https://umit8098.github.io/React-Project-Tutorial-FullStack/      <br>
 
 
-umit8098.github.io/React-Project-Tutorial-FullStack/
+
 <br>
 
 ## 💻 Backend
