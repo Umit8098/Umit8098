@@ -53,7 +53,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 <br>
 
 
-## ⚙ Backend  
+# ⚙ Backend  
 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/></a>
@@ -80,7 +80,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
-## 🛠 Tools  
+# 🛠 Tools  
 
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/></a>
