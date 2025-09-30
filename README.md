@@ -14,6 +14,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umitarat8098)
 
 
+
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python, JavaScript, React, Django, Wordpress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Boostrap,...
@@ -22,10 +24,7 @@ Here are some ideas to get you started:
 - ✨ A lifelong learner.
 - 📫 How to reach me;
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=umitarat8098@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16468871/umit-arat)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@umitarat8098)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" /> </p>
 
