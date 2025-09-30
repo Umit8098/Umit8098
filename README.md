@@ -1,10 +1,16 @@
+
 ## 👋 Hi there
 
-“Hi, I’m Ümit 👋. I’m a passionate Full-Stack Developer who loves building web applications with React & Django.”
+Hi, I’m **Ümit** 👋  
+I’m a **Full-Stack Developer** focused on building web applications with **React** & **Django**.
 
-💻 Full-Stack Developer | React • Django • PostgreSQL  
-🚀 Passionate about building scalable web apps and learning new technologies.  
+💻 React • Django • PostgreSQL • JavaScript • Python  
+🚀 Focused on building scalable web apps and exploring new technologies.  
 ✨ A lifelong learner, motivated to grow and excel in the IT industry.  
+
+- 🌱 Currently learning: Python, JavaScript, React, Django, WordPress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Bootstrap  
+- 👯 Always open to collaboration on exciting Full-Stack projects  
+- 📫 How to reach me:  
 
 <br>
 
@@ -14,17 +20,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16468871/umit-arat)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umitarat8098)
-
-
-
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Python, JavaScript, React, Django, Wordpress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Boostrap,...
-- 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
-- 👨‍💻 Motivated to learn, grow and excel in IT industry.
-- ✨ A lifelong learner.
-- 📫 How to reach me;
 
 <br>
 
