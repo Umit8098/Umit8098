@@ -6,6 +6,8 @@
 🚀 Passionate about building scalable web apps and learning new technologies.  
 ✨ A lifelong learner, motivated to grow and excel in the IT industry.  
 
+<br>
+
 ## 🌐 Connect with Me  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umitarat8098@gmail.com)
@@ -47,7 +49,6 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://mui.com/static/logo.png" height="50"/></a>
 
 
-
 ### 🚀 Featured Frontend Projects  
 
 | Project | Demo Link | Tech |
@@ -75,7 +76,6 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/></a>
 
-<br>
 
 ### 🚀 Featured Backend Projects  
 | Project | Stack | Demo |
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 | 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) |
 | 🍕 Pizza App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8111.pythonanywhere.com/) |
 
-
+<br>
 
 ## 🛠 Tools  
 
@@ -112,8 +112,6 @@ Here are some ideas to get you started:
  <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
 
 
-<hr>
-
 ## 📊 GitHub Stats  
 
 <p align="left">
@@ -125,11 +123,7 @@ Here are some ideas to get you started:
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
 </p>
 
-
-
-
-
-
+<br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
