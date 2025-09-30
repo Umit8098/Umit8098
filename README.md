@@ -66,21 +66,30 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
-### ***Backend Projects*** 
-🔴 ***Flight_App*** .............Django_Rest_Framework....https://umit8113.pythonanywhere.com/     <br>
-🔴 ***Blog_App*** ...............Django_Rest_Framework....https://umit8099.pythonanywhere.com/       <br>
-🔴 ***Blog_App***  ...............Django_Templates..............https://umit8112.pythonanywhere.com/           <br>
-🔴 ***Blog_App V.2*** ........Django_Rest_Framework....https://umit8114.pythonanywhere.com/  <br>
-🔴 ***Personnel_App*** .....Django_Rest_Framework....https://umit8100.pythonanywhere.com/  <br>
-🔴 ***Todo_App***  ..............Django_Rest_Framework....https://umit8101.pythonanywhere.com/      <br>
-🔴 ***Quiz_App*** ...............Django_Rest_Framework....http://umit8102.pythonanywhere.com/        <br>
-🔴 ***Stock_App*** .............Django_Rest_Framework....https://umit8103.pythonanywhere.com/      <br>
-🔴 ***Rent_A_Car_App*** ...Django_Rest_Framework....https://umit8104.pythonanywhere.com/  <br>
-🔴 ***Todo_App*** ..............Django_Templates..............https://umit8106.pythonanywhere.com/           <br>
-🔴 ***Weather_App*** ........Django_Templates..............https://umit8108.pythonanywhere.com/         <br>
-🔴 ***Auth_Dj_Allauth_Google*** .....Django_Rest_Framework....https://umit8110.pythonanywhere.com/   <br>
-🔴 ***Pizza_App***  .............Django_Templates..............https://umit8111.pythonanywhere.com/        <br>
+<!-- ### ***Backend Projects*** -->
+<!--🔴 ***Flight_App*** .............Django_Rest_Framework....https://umit8113.pythonanywhere.com/     <br>-->
+<!--🔴 ***Blog_App*** ...............Django_Rest_Framework....https://umit8099.pythonanywhere.com/       <br>-->
+<!--🔴 ***Blog_App***  ...............Django_Templates..............https://umit8112.pythonanywhere.com/  <br>-->
+<!--🔴 ***Blog_App V.2*** ........Django_Rest_Framework....https://umit8114.pythonanywhere.com/  <br>-->
+<!--🔴 ***Personnel_App*** .....Django_Rest_Framework....https://umit8100.pythonanywhere.com/  <br>-->
+<!--🔴 ***Todo_App***  ..............Django_Rest_Framework....https://umit8101.pythonanywhere.com/      <br>-->
+<!--🔴 ***Quiz_App*** ...............Django_Rest_Framework....http://umit8102.pythonanywhere.com/        <br>-->
+<!--🔴 ***Stock_App*** .............Django_Rest_Framework....https://umit8103.pythonanywhere.com/      <br>-->
+<!--🔴 ***Rent_A_Car_App*** ...Django_Rest_Framework....https://umit8104.pythonanywhere.com/  <br>-->
+<!--🔴 ***Todo_App*** ..............Django_Templates..............https://umit8106.pythonanywhere.com/           <br>-->
+<!--🔴 ***Weather_App*** ........Django_Templates..............https://umit8108.pythonanywhere.com/         <br>-->
+<!--🔴 ***Auth_Dj_Allauth_Google*** .....Django_Rest_Framework....https://umit8110.pythonanywhere.com/   <br>-->
+<!--🔴 ***Pizza_App***  .............Django_Templates..............https://umit8111.pythonanywhere.com/        <br>-->
+
 <br>
+
+| Project | Stack | Live Demo |
+|----------|-------|-----------|
+| Flight API | Django Rest | [Demo](https://umit8113.pythonanywhere.com/) |
+| Blog API | Django Rest | [Demo](https://umit8114.pythonanywhere.com/) |
+| Blog APP | Django Rest, Django_Templates | [Demo](https://umit8112.pythonanywhere.com/) |
+| Stock API | Django Rest | [Demo](https://umit8103.pythonanywhere.com/) |
+
 
 ## ⚙ Tools
 
