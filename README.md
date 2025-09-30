@@ -128,13 +128,13 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight&" alt="my commit status" width="49%" /> </p>
 
 <hr>
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="50%" > -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=blue-green" alt="my github stats" width="49%"/>
 </p>
 
@@ -186,3 +186,17 @@ Here are some ideas to get you started:
 <!--🔴 ***Pizza_App***  .............Django_Templates..............https://umit8111.pythonanywhere.com/        <br>-->
 
 
+
+
+<!--
+<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" /> </p>
+
+<hr>
+
+<p align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=onedark&layout=compact" alt="languages" width="50%" > -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=blue-green" alt="my github stats" width="49%"/>
+</p>
+-->
