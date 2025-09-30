@@ -4,7 +4,7 @@
 Hi, I’m **Ümit** 👋  
 I’m a **Full-Stack Developer** focused on building web applications with **React** & **Django**.
 
-💻 React • Django • PostgreSQL • JavaScript • Python  
+💻 JavaScript • React • Python • Django • PostgreSQL     
 🚀 Focused on building scalable web apps and exploring new technologies.  
 ✨ A lifelong learner, motivated to grow and excel in the IT industry.  
 
