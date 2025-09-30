@@ -149,9 +149,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- Çalışıyor. -->
-<!-- ![](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg) -->
-<!--<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>-->
 
 <!--
 - 🔭 I’m currently working on ...
