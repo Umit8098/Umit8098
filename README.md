@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-**Umit8098/Umit8098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+“Hi, I’m Ümit 👋. I’m a passionate Full-Stack Developer who loves building web applications with React & Django.”
 
 Here are some ideas to get you started:
 
