@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight" width="51%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight" width="50%"/>
 </p>
 
 <p align="center">
