@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div display="flex">
+
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="50%" > -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=blue-green" alt="my github stats" width="49%"/>
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&layout=compact&theme=tokyonight" width="49%"/>
 </p>
-</div>
+
 
 
 
