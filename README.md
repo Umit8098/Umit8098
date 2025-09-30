@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 🔴 ***IOS-Calculator-Js*** .....................https://umit8098.github.io/Project-js-IOS-Calculator/       <br>
 🔴 ***Flag-App-Js*** ..............................https://umit8098.github.io/Project-js-Flag-App/       <br>
 🔴 ***Tour-Places-React-Js*** ..............https://umit8098.github.io/React_Proj_Tour_Places/      <br>
+🔴 ***Language-Cards-React-Js*** .......https://umit8098.github.io/React-Project-Language-Cards/      <br>
 
 
 
