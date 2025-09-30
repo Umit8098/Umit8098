@@ -2,8 +2,13 @@
 
 “Hi, I’m Ümit 👋. I’m a passionate Full-Stack Developer who loves building web applications with React & Django.”
 
+💻 Full-Stack Developer | React • Django • PostgreSQL  
+🚀 Passionate about building scalable web apps and learning new technologies.  
+✨ A lifelong learner, motivated to grow and excel in the IT industry.  
+
 Here are some ideas to get you started:
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, SQL, Git&GitHub, HTML,
 - 👯 I’m looking to collaborate on ...
@@ -12,7 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
 - 🌱 I’m currently learning Python, JavaScript, React, Django, Wordpress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Boostrap,...
 - 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 - 👨‍💻 Motivated to learn, grow and excel in IT industry.
