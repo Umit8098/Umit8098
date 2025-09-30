@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 ### ***Frontend Projects*** 
-🔴 ***SASS-Project*** .......................https://umit8098.github.io/Project-Website-HTML-CSS-SASS/           <br>
-🔴 ***Bootstrap-Project*** ...............https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/   <br>
+🔴 ***SASS-Project*** ...........................https://umit8098.github.io/Project-Website-HTML-CSS-SASS/           <br>
+🔴 ***Bootstrap-Project*** ...................https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/   <br>
 🔴 ***Checkout-Shopping_Cart_Js*** ..https://umit8098.github.io/Project-js-checkout-shopping_cart/       <br>
 
 
