@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ### Backend Projects
 https://umit8113.pythonanywhere.com/
 Flight App
+https://umit8099.pythonanywhere.com/  Blog App
 
 <br>
 
