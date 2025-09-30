@@ -41,17 +41,6 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
-### ***Frontend Projects*** 
-🔴 ***SASS-Project*** ...............................https://umit8098.github.io/Project-Website-HTML-CSS-SASS/           <br>
-🔴 ***Bootstrap-Project*** .......................https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/   <br>
-🔴 ***Checkout-Shopping-Cart-Js*** .....https://umit8098.github.io/Project-js-checkout-shopping_cart/       <br>
-🔴 ***ToDo-Js*** ........................................https://umit8098.github.io/Project-js-ToDo-LocalStorage/       <br>
-🔴 ***IOS-Calculator-Js*** ........................https://umit8098.github.io/Project-js-IOS-Calculator/       <br>
-🔴 ***Flag-App-Js*** .................................https://umit8098.github.io/Project-js-Flag-App/       <br>
-🔴 ***Tour-Places-React-Js*** .................https://umit8098.github.io/React_Proj_Tour_Places/      <br>
-🔴 ***Language-Cards-React-Js*** .........https://umit8098.github.io/React-Project-Language-Cards/      <br>
-🔴 ***Tutorial-FullStack-Proj-React-Js*** ...https://umit8098.github.io/React-Project-Tutorial-FullStack/      <br>
-🔴 ***Task-Tracker-React-Js*** ..............https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/      <br>
 
 ### 🚀 Frontend Projects
 | Project | Live Demo | Tech |
@@ -62,10 +51,10 @@ Here are some ideas to get you started:
 | 🟢 ToDo | [Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | Js, LocalStorage |
 | 🟢 IOS-Calculator | [Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | Js |
 | 🟢 Flag-App | [Demo](https://umit8098.github.io/Project-js-Flag-App/ ) | Js |
-| 🟢 Tour-Places | [Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | React |
-| 🟢 Tutorial FullStack | [Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React |
-| 🟢 Language Cards | [Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React |
-| 🟢 Task-Tracker | [Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage |
+| 🟢 Tour-Places | [Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | React Js |
+| 🟢 Tutorial FullStack | [Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React Js, python-Django |
+| 🟢 Language Cards | [Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React Js |
+| 🟢 Task-Tracker | [Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React Js, LocalStorage |
 
 
 
