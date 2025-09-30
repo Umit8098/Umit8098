@@ -6,6 +6,14 @@
 🚀 Passionate about building scalable web apps and learning new technologies.  
 ✨ A lifelong learner, motivated to grow and excel in the IT industry.  
 
+## 🌐 Connect with Me  
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umitarat8098@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16468871/umit-arat)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umitarat8098)
+
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python, JavaScript, React, Django, Wordpress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Boostrap,...
