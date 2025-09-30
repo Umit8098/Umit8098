@@ -122,12 +122,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">
+<p align="left">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="50%" > -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=blue-green" alt="my github stats" width="49%"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
