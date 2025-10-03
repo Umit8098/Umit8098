@@ -78,7 +78,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📝 Quiz API | Django Rest Framework | [Live Demo](http://umit8102.pythonanywhere.com/) |<p align="center"><a href="https://umit8102.pythonanywhere.com/"><img src="./backend-gif1/quiz_app.gif" height="100"/></a></p>|
 | 📊 Stock API | Django REST Framework | [Live Demo](https://umit8103.pythonanywhere.com/) |<p align="center"><a href="https://umit8103.pythonanywhere.com/"><img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="100"/></a></p>|
 | 🚗 Rent A Car API | Django REST Framework | [Live Demo](https://umit8104.pythonanywhere.com/) |<p align="center"><a href="https://umit8104.pythonanywhere.com/"><img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="100"/></a></p>|
-| 🔐 Auth_Dj_Allauth_Google API | Django Rest Framework | [Live Demo](https://umit8110.pythonanywhere.com/) ||
+| 🔐 Auth_Dj_Allauth_Google API | Django Rest Framework | [Live Demo](https://umit8110.pythonanywhere.com/) |<p align="center"><a href="https://umit8110.pythonanywhere.com/"><img src="./backend-gif1/Social_Account_Auth_App.gif" height="100"/></a></p>|Social_Account_Auth_App
 | 📝 Blog APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8112.pythonanywhere.com/) ||
 | ✅ Todo APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8106.pythonanywhere.com/) ||
 | 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) ||
