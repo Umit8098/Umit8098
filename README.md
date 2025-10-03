@@ -52,6 +52,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 <p>
   <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/"><img src="./project-gif/tutorial.gif" height="200"/></a>
   <a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="200"/></a>
+  <a href="https://umit8098.github.io/React_Proj_Tour_Places/"><img src="./project-gif/tour-project.gif" height="200"/></a>
 </p>
 
 
