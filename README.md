@@ -49,7 +49,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React, Django |
 | 📋 Task Tracker | [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage |
 
-
+![project-gif](./project-gif/tutorial.gif)
 <br>
 
 
