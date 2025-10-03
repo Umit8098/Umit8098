@@ -39,7 +39,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | Project | Demo Link | Tech |live|
 |---------|-----------|------|----|
 | 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass ||
-| 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS |<p align="center"><a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/"><img src="./project-gif/Bootstrap-WebSite.gif" height="100"/></a></p>|
+| 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS |<p align="center"><a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/"><img src="./project-gif2/Bootstrap-WebSite.gif" height="100"/></a></p>|
 | 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript, LocalStorage, SessionStorage |<p align="center"><a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/"><img src="./project-gif/checkout_app.gif" height="100"/></a></p>|
 | ✅ ToDo App | [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | JavaScript, LocalStorage |<p align="center"><a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/"><img src="./project-gif/ToDo.gif" height="100"/></a></p>|
 | 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript |<p align="center"><a href="https://umit8098.github.io/Project-js-IOS-Calculator/"><img src="./project-gif/IOS_Calculator.gif" height="100"/></a></p>|
