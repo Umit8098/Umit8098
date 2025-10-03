@@ -45,17 +45,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript ||
 | 🚩 Flag App | [Live Demo](https://umit8098.github.io/Project-js-Flag-App/) | JavaScript, API ||
 | 🗺️ Tour Places | [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | Sass, React |<a href="https://umit8098.github.io/React_Proj_Tour_Places/"><img src="./project-gif/tour-project.gif" height="200"/></a>|
-| 🗣️ Language Cards | [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React ||
-| 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React, Django ||
+| 🗣️ Language Cards | [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React |<a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="200" width="200"/></a>|
+| 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React, Django | <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/"><img src="./project-gif/tutorial.gif" height="200" width="200"/></a>|
 | 📋 Task Tracker | [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage ||
 
+<!--
 <p>
-  <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/"><img src="./project-gif/tutorial.gif" height="200" width="200"/></a>
   <a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="200" width="200"/></a>
-  <a href="https://umit8098.github.io/React_Proj_Tour_Places/"><img src="./project-gif/tour-project.gif" height="200"/></a>
 </p>
-
-
+-->
 <!--![project-gif](./project-gif/tutorial.gif)-->
 
 <br>
