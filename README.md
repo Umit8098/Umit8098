@@ -73,7 +73,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 |---------|-------|------|----|
 | ✈️ Flight App | Django REST Framework | [Live Demo](https://umit8113.pythonanywhere.com/) |<p align="center"><a href="https://umit8113.pythonanywhere.com/"><img src="./backend-gif1/Flight_App_1.gif" height="100"/></a></p>|
 | 📝 Blog API | Django REST Framework | [Live Demo](https://umit8114.pythonanywhere.com/) |<p align="center"><a href="https://umit8113.pythonanywhere.com/"><img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="100"/></a></p>|
-| 👤 Personnel App | Django REST Framework | [Live Demo](https://umit8100.pythonanywhere.com/) ||
+| 👤 Personnel App | Django REST Framework | [Live Demo](https://umit8100.pythonanywhere.com/) |<p align="center"><a href="https://umit8113.pythonanywhere.com/"><img src="./backend-gif1/personnel_swagger.gif" height="100"/></a></p>|
 | ✅ Todo API | Django Rest Framework | [Live Demo](https://umit8101.pythonanywhere.com/) ||
 | 📝 Quiz API | Django Rest Framework | [Live Demo](http://umit8102.pythonanywhere.com/) ||
 | 📊 Stock API | Django REST Framework | [Live Demo](https://umit8103.pythonanywhere.com/) ||
