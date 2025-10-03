@@ -36,7 +36,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 ### 🚀 Featured Frontend Projects  
 
-| Project | Demo Link | Tech |proj|
+| Project | Demo Link | Tech |live|
 |---------|-----------|------|----|
 | 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass ||
 | 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS ||
