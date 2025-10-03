@@ -36,7 +36,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 ### 🚀 Featured Frontend Projects  
 
-| Project | Demo Link | Tech |live|
+| Project | Demo Link | Tech |Live|
 |---------|-----------|------|----|
 | 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass |<p align="center"><a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/"><img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="100"/></a></p>|
 | 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS |<p align="center"><a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/"><img src="./frontend-gif2/Bootstrap-WebSite.gif" height="100"/></a></p>|
@@ -69,7 +69,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 
 ### 🚀 Featured Backend Projects  
-| Project | Stack | Demo |live|
+| Project | Stack | Demo |Live|
 |---------|-------|------|----|
 | ✈️ Flight App | Django REST Framework | [Live Demo](https://umit8113.pythonanywhere.com/) |<p align="center"><a href="https://umit8113.pythonanywhere.com/"><img src="./backend-gif1/Flight_App_1.gif" height="100"/></a></p>|
 | 📝 Blog API | Django REST Framework | [Live Demo](https://umit8114.pythonanywhere.com/) ||
