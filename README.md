@@ -69,20 +69,20 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 
 ### 🚀 Featured Backend Projects  
-| Project | Stack | Demo |
-|---------|-------|------|
-| ✈️ Flight App | Django REST Framework | [Live Demo](https://umit8113.pythonanywhere.com/) |
-| 📝 Blog API | Django REST Framework | [Live Demo](https://umit8114.pythonanywhere.com/) |
-| 👤 Personnel App | Django REST Framework | [Live Demo](https://umit8100.pythonanywhere.com/) |
-| ✅ Todo API | Django Rest Framework | [Live Demo](https://umit8101.pythonanywhere.com/) |
-| 📝 Quiz API | Django Rest Framework | [Live Demo](http://umit8102.pythonanywhere.com/) |
-| 📊 Stock API | Django REST Framework | [Live Demo](https://umit8103.pythonanywhere.com/) |
-| 🚗 Rent A Car API | Django REST Framework | [Live Demo](https://umit8104.pythonanywhere.com/) |
-| 🔐 Auth_Dj_Allauth_Google API | Django Rest Framework | [Live Demo](https://umit8110.pythonanywhere.com/) |
-| 📝 Blog APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8112.pythonanywhere.com/) |
-| ✅ Todo APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8106.pythonanywhere.com/) |
-| 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) |
-| 🍕 Pizza App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8111.pythonanywhere.com/) |
+| Project | Stack | Demo |live|
+|---------|-------|------|----|
+| ✈️ Flight App | Django REST Framework | [Live Demo](https://umit8113.pythonanywhere.com/) ||
+| 📝 Blog API | Django REST Framework | [Live Demo](https://umit8114.pythonanywhere.com/) ||
+| 👤 Personnel App | Django REST Framework | [Live Demo](https://umit8100.pythonanywhere.com/) ||
+| ✅ Todo API | Django Rest Framework | [Live Demo](https://umit8101.pythonanywhere.com/) ||
+| 📝 Quiz API | Django Rest Framework | [Live Demo](http://umit8102.pythonanywhere.com/) ||
+| 📊 Stock API | Django REST Framework | [Live Demo](https://umit8103.pythonanywhere.com/) ||
+| 🚗 Rent A Car API | Django REST Framework | [Live Demo](https://umit8104.pythonanywhere.com/) ||
+| 🔐 Auth_Dj_Allauth_Google API | Django Rest Framework | [Live Demo](https://umit8110.pythonanywhere.com/) ||
+| 📝 Blog APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8112.pythonanywhere.com/) ||
+| ✅ Todo APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8106.pythonanywhere.com/) ||
+| 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) ||
+| 🍕 Pizza App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8111.pythonanywhere.com/) ||
 
 <br>
 
