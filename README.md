@@ -47,7 +47,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 🗺️ Tour Places | [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | Sass, React |<p align="center"><a href="https://umit8098.github.io/React_Proj_Tour_Places/"><img src="./project-gif/tour-project.gif" height="100"/></a></p>|
 | 🗣️ Language Cards | [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React |<p align="center"><a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="100"/></a></p>|
 | 📚 Tutorial FullStack | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | React, Django | <p align="center"><a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/"><img src="./project-gif/tutorial.gif" height="100"/></a></p>|
-| 📋 Task Tracker | [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage ||
+| 📋 Task Tracker | [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | React, LocalStorage |<p align="center"><a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/"><img src="./project-gif/task-tracker.gif" height="100"/></a></p>|
 
 <!--
 <p>
