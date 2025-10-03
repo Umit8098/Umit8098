@@ -42,7 +42,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS ||
 | 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript, LocalStorage, SessionStorage ||
 | ✅ ToDo App | [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | JavaScript, LocalStorage ||
-| 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript ||
+| 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript |<p align="center"><a href="https://umit8098.github.io/Project-js-IOS-Calculator/"><img src="./project-gif/IOS_Calculator.gif" height="100"/></a></p>|
 | 🚩 Flag App | [Live Demo](https://umit8098.github.io/Project-js-Flag-App/) | JavaScript, API ||
 | 🗺️ Tour Places | [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | Sass, React |<p align="center"><a href="https://umit8098.github.io/React_Proj_Tour_Places/"><img src="./project-gif/tour-project.gif" height="100"/></a></p>|
 | 🗣️ Language Cards | [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | React |<p align="center"><a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="100"/></a></p>|
