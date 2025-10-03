@@ -40,7 +40,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 |---------|-----------|------|----|
 | 🎨 SASS Project | [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | HTML, CSS, Sass ||
 | 🅱️ Bootstrap-Project | [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | Bootstrap5, HTML, CSS ||
-| 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript, LocalStorage, SessionStorage ||
+| 🛒 Checkout Cart | [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | JavaScript, LocalStorage, SessionStorage |<p align="center"><a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/"><img src="./project-gif/checkout_app.gif" height="100"/></a></p>|
 | ✅ ToDo App | [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | JavaScript, LocalStorage |<p align="center"><a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/"><img src="./project-gif/ToDo.gif" height="100"/></a></p>|
 | 📱 iOS Calculator | [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | JavaScript |<p align="center"><a href="https://umit8098.github.io/Project-js-IOS-Calculator/"><img src="./project-gif/IOS_Calculator.gif" height="100"/></a></p>|
 | 🚩 Flag App | [Live Demo](https://umit8098.github.io/Project-js-Flag-App/) | JavaScript, API |<p align="center"><a href="https://umit8098.github.io/Project-js-Flag-App/"><img src="./project-gif/flag-app.gif" height="100"/></a></p>|
