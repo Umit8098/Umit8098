@@ -81,7 +81,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 🔐 Auth_Dj_Allauth_Google API | Django Rest Framework | [Live Demo](https://umit8110.pythonanywhere.com/) |<p align="center"><a href="https://umit8110.pythonanywhere.com/"><img src="./backend-gif1/Social_Account_Auth_App.gif" height="100"/></a></p>|Social_Account_Auth_App
 | 📝 Blog APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8112.pythonanywhere.com/) |<p align="center"><a href="https://umit8112.pythonanywhere.com/"><img src="./backend-gif1/Blog_App.gif" height="100"/></a></p>|
 | ✅ Todo APP | Django Rest, Django_Templates, FullStack | [Live Demo](https://umit8106.pythonanywhere.com/) |<p align="center"><a href="https://umit8106.pythonanywhere.com/"><img src="./backend-gif1/Todo_App_Temp-2.gif" height="100"/></a></p>|
-| 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) ||
+| 🌦️ Weather App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8108.pythonanywhere.com/) |<p align="center"><a href="https://umit8108.pythonanywhere.com/"><img src="./backend-gif1/Weather_App_Temp.gif" height="100"/></a></p>|
 | 🍕 Pizza App | Django Rest, Django Templates, FullStack | [Live Demo](https://umit8111.pythonanywhere.com/) ||
 
 <br>
