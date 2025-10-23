@@ -49,7 +49,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📚 Tutorial FullStack | React, Django | [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | <p align="center"><a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/"><img src="./frontend-gif1/tutorial.gif" height="100"/></a></p>|
 | 📋 Task Tracker | React, LocalStorage |[Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) |  <p align="center"><a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/"><img src="./frontend-gif1/task-tracker.gif" height="100"/></a></p>|
 | ⚛️ Modern Multipage Website Layout | React, Router |[Live Demo](https://umit8098.github.io/React-Project-Router/) |  <p align="center"><a href="https://umit8098.github.io/React-Project-Router/"><img src="./frontend-gif2/router-project.gif" height="100"/></a></p>|
-| 📌 Recipe App | React,  |[Live Demo](https://recipe-app-umitdev.netlify.app/) |  <p align="center"><a href="https://recipe-app-umitdev.netlify.app/"><img src="./frontend-gif2/recipe.gif" height="100"/></a></p>|
+| 📌 Recipe App | React,  |[Live Demo](https://recipe-app-umitdev.netlify.app/) |  <p align="center"><a href="https://recipe-app-umitdev.netlify.app/"><img src="./frontend-gif2/recipe-app.gif" height="100"/></a></p>|
 
 <!--
 <p>
