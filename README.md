@@ -53,6 +53,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📌 Movie App - Firebase Auth - TMDB API Website | React, Router, Firebase Authentication, TMDB API |[Live Demo](https://firebase-movie-app-umitdev.netlify.app/) |  <p align="center"><a href="https://firebase-movie-app-umitdev.netlify.app/"><img src="./frontend-gif2/movie-app.gif" height="100"/></a></p>|
 
 <br>
+
 | Proje | Teknolojiler | Demo | GIF |
 |-------|--------------|------|-----|
 | 🎨 **SASS Project** | HTML, CSS, Sass | 🔗 [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="90"/> |
@@ -68,6 +69,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | ⚛️ **Modern Multipage Website Layout** | React, React Router | 🔗 [Live Demo](https://umit8098.github.io/React-Project-Router/) | <img src="./frontend-gif2/router-project.gif" height="90"/> |
 | 📌 **Recipe App – Multipage Website** | React, React Router, Styled Components | 🔗 [Live Demo](https://recipe-app-umitdev.netlify.app/) | <img src="./frontend-gif2/recipe-app.gif" height="90"/> |
 | 🎬 **Movie App – Firebase Auth + TMDB API** | React, Router, Firebase Auth, TMDB API | 🔗 [Live Demo](https://firebase-movie-app-umitdev.netlify.app/) | <img src="./frontend-gif2/movie-app.gif" height="90"/> |
+
 
 <br>
 <!--
