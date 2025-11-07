@@ -231,6 +231,12 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <img src="./frontend-gif2/recipe-app.gif" height="140"/>
+      <!-- Cover image -->
+      <img src="./frontend-gif2/recipe-cover.png" width="100%" style="border-radius: 12px"/>
+      <!-- GIF Preview -->
+    <br/>
+    <img src="./frontend-gif2/recipe-app.gif" height="140"/>
+    <p><strong>Tech:</strong> React · Router · Styled Components</p>
       <!-- Buttons -->
     <a href="https://github.com/Umit8098/recipe-app" target="_blank">🔗 Repo</a> • 
     <a href="https://recipe-app-umitdev.netlify.app/" target="_blank">🚀 Live Demo</a>
