@@ -54,6 +54,27 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📌 Recipe App – Multipage</h3>
+      <p><strong>Tech:</strong> React, Router, Styled Components</p>
+      <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/recipe-app.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>🎬 Movie App – Firebase Auth</h3>
+      <p><strong>Tech:</strong> React, Router, Firebase, TMDB API</p>
+      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/movie-app.gif" height="140"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 | Proje | Teknolojiler | Demo | GIF |
 |-------|--------------|------|-----|
 | 🎨 **SASS Project** | HTML, CSS, Sass | 🔗 [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="90"/> |
