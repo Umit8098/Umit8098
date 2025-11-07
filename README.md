@@ -64,7 +64,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h3>🎬 Movie App – Firebase Auth</h3>
-      <p><strong>Tech:</strong> React, Router, Firebase, TMDB API</p>
+      <p><strong>Tech:</strong> React, Router, Firebase, TMDB API, ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+</p>
       <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <img src="./frontend-gif2/movie-app.gif" height="140"/>
