@@ -438,76 +438,28 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
-<!--![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png)-->
 
 
 ## 📊 GitHub Stats  
 
 <p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/>&nbsp;
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight&" alt="my commit status" width="49%" />  -->
 <img src="https://streak-stats.demolab.com?user=Umit8098&theme=tokyonight" alt="my commit status" width="49%" />
 </p>
 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="49%" >
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" width="20%" /> </p>
-<!-- ![](https://komarev.com/ghpvc/?username=Umit8098) -->
 
 <br>
 
 ## 🐍 Snake Animation
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake-dark.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg)
 
 
 
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, SQL, Git&GitHub, HTML,
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ### ***Backend Projects*** -->
-<!--🔴 ***Flight_App*** .............Django_Rest_Framework....https://umit8113.pythonanywhere.com/     <br>-->
-<!--🔴 ***Blog_App*** ...............Django_Rest_Framework....https://umit8099.pythonanywhere.com/       <br>-->
-<!--🔴 ***Blog_App***  ...............Django_Templates..............https://umit8112.pythonanywhere.com/  <br>-->
-<!--🔴 ***Blog_App V.2*** ........Django_Rest_Framework....https://umit8114.pythonanywhere.com/  <br>-->
-<!--🔴 ***Personnel_App*** .....Django_Rest_Framework....https://umit8100.pythonanywhere.com/  <br>-->
-<!--🔴 ***Todo_App***  ..............Django_Rest_Framework....https://umit8101.pythonanywhere.com/      <br>-->
-<!--🔴 ***Quiz_App*** ...............Django_Rest_Framework....http://umit8102.pythonanywhere.com/        <br>-->
-<!--🔴 ***Stock_App*** .............Django_Rest_Framework....https://umit8103.pythonanywhere.com/      <br>-->
-<!--🔴 ***Rent_A_Car_App*** ...Django_Rest_Framework....https://umit8104.pythonanywhere.com/  <br>-->
-<!--🔴 ***Todo_App*** ..............Django_Templates..............https://umit8106.pythonanywhere.com/           <br>-->
-<!--🔴 ***Weather_App*** ........Django_Templates..............https://umit8108.pythonanywhere.com/         <br>-->
-<!--🔴 ***Auth_Dj_Allauth_Google*** .....Django_Rest_Framework....https://umit8110.pythonanywhere.com/   <br>-->
-<!--🔴 ***Pizza_App***  .............Django_Templates..............https://umit8111.pythonanywhere.com/        <br>-->
-
-
-
-
-<!--
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="49%" /> 
-</p>
--->
-
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umit8098&show_icons=true&theme=onedark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=onedark&" alt="my commit status" width="50%" /><hr>
---> 
-
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/> -->
