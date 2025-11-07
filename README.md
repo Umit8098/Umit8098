@@ -217,6 +217,42 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
+    <!-- Cover image -->
+    <img src="./frontend-gif2/recipe-cover.png" width="100%" style="border-radius: 12px"/>
+
+    <!-- GIF Preview -->
+    <br/>
+    <img src="./frontend-gif2/recipe-app.gif" height="140"/>
+
+    <p><strong>Tech:</strong> React · Router · Styled Components</p>
+
+    <!-- Buttons -->
+    <a href="https://github.com/Umit8098/recipe-app" target="_blank">🔗 Repo</a> • 
+    <a href="https://recipe-app-umitdev.netlify.app/" target="_blank">🚀 Live Demo</a>
+  </td>
+
+  <!-- PROJECT 2 -->
+  <td width="50%" align="center">
+    <h3>🎬 Movie App – Firebase Auth</h3>
+
+    <!-- Cover image -->
+    <img src="./frontend-gif2/movie-cover.png" width="100%" style="border-radius: 12px"/>
+
+    <!-- GIF Preview -->
+    <br/>
+    <img src="./frontend-gif2/movie-app.gif" height="140"/>
+
+    <p><strong>Tech:</strong> React · Router · Firebase Auth · TMDB API</p>
+
+    <!-- Buttons -->
+    <a href="https://github.com/Umit8098/firebase-movie-app" target="_blank">🔗 Repo</a> • 
+    <a href="https://firebase-movie-app-umitdev.netlify.app/" target="_blank">🚀 Live Demo</a>
+  </td>
+</tr>
+
+
+<br>
+
 
 <!--
 <p>
