@@ -54,24 +54,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📌 Recipe App – Multipage</h3>
-      <p><strong>Tech:</strong> React, Router, Styled Components</p>
-      <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
-      <br/><br/>
-      <img src="./frontend-gif2/recipe-app.gif" height="140"/>
-    </td>
-    <td width="50%">
-      <h3>🎬 Movie App – Firebase Auth</h3>
-      <p><strong>Tech:</strong> React, Router, Firebase, TMDB API</p>
-      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
-      <br/><br/>
-      <img src="./frontend-gif2/movie-app.gif" height="140"/>
-    </td>
-  </tr>
-</table>
+ARA
 
 <br>
 
@@ -218,6 +201,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>🎨 SASS Landing Page</h3>
+      <p>A responsive landing page built using Sass with modern UI components.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
