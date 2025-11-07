@@ -200,7 +200,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
       <br/><br/>
-      <img src="./frontend-gif1/tutorial.gif" height="150"/>
+      <p align="center">
+        <img src="./frontend-gif1/tutorial.gif" height="150"/>
+      </p>
     </td>
     <td width="50%">
       <h2>📋 Task Tracker</h2>
