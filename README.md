@@ -36,6 +36,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 # 🚀 Featured Frontend Projects  
 
+<h2> 🚀 Featured Frontend Projects </h2>  
+
 <table>
   <!-- Row 1 -->
   <tr>
