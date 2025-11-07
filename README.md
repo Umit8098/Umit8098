@@ -448,6 +448,13 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 </p>
 
 
+<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=tokyonight" width="49%"/>&nbsp;
+
+<img src="https://streak-stats.demolab.com?user=Umit8098&theme=tokyonight" width="49%" />
+</p>
+
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="49%" >
 </p>
