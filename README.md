@@ -68,6 +68,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
     </td>
   </tr>
+  <br>
 
   <!-- Row 2 -->
   <tr>
