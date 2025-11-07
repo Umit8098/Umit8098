@@ -259,6 +259,194 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <br>
 
+<br>
+
+<p align="center">
+  <table>
+
+    <!-- Flight App -->
+    <tr>
+      <td width="50%" align="center">
+        <h3>✈️ Flight App – REST API</h3>
+
+        <!-- Cover -->
+        <img src="./backend-covers/flight-cover.png" width="100%" style="border-radius:12px"/>
+
+        <!-- GIF -->
+        <br/>
+        <img src="./backend-gif1/Flight_App_1.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <!-- Badges -->
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        </p>
+
+        <!-- Links -->
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8113.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+
+      <!-- Blog API -->
+      <td width="50%" align="center">
+        <h3>📝 Blog API – REST API</h3>
+
+        <img src="./backend-covers/blog-api-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8114.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+    </tr>
+
+    <!-- Personnel App / Todo API -->
+    <tr>
+      <td width="50%" align="center">
+        <h3>👤 Personnel App – REST API</h3>
+
+        <img src="./backend-covers/personnel-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/personnel_swagger.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8100.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+
+      <td width="50%" align="center">
+        <h3>✅ Todo API – REST API</h3>
+
+        <img src="./backend-covers/todo-api-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/ToDo_App-2.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8101.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+    </tr>
+
+    <!-- Quiz API / Stock API -->
+    <tr>
+      <td width="50%" align="center">
+        <h3>📝 Quiz API – REST API</h3>
+
+        <img src="./backend-covers/quiz-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/quiz_app.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8102.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+
+      <td width="50%" align="center">
+        <h3>📊 Stock API – REST API</h3>
+
+        <img src="./backend-covers/stock-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8103.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+    </tr>
+
+    <!-- Rent A Car / Allauth Google -->
+    <tr>
+      <td width="50%" align="center">
+        <h3>🚗 Rent A Car API – REST API</h3>
+
+        <img src="./backend-covers/rent-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8104.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+
+      <td width="50%" align="center">
+        <h3>🔐 Auth Google – Social Login API</h3>
+
+        <img src="./backend-covers/auth-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/Social_Account_Auth_App.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST Framework, Dj-Allauth</p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Dj_Allauth-0C4B33?style=flat&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        </p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8110.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+    </tr>
+
+    <!-- Blog App Template / Todo Template -->
+    <tr>
+      <td width="50%" align="center">
+        <h3>📝 Blog App – FullStack</h3>
+
+        <img src="./backend-covers/blog-fullstack-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <img src="./backend-gif1/Blog_App.gif" height="140"/>
+
+        <p><strong>Tech:</strong> Django REST, Django Templates</p>
+
+        <a href="#">🔗 Repo</a> • 
+        <a href="https://umit8112.pythonanywhere.com/" target="_blank">🚀 Live Demo</a>
+      </td>
+
+      <td width="50%" align="center">
+        <h3>✅ Todo App – FullStack</h3>
+
+        <img src="./backend-covers/todo-fullstack-cover.png" width="100%" style="border-radius:12px"/>
+        <br/>
+        <i
+
+
+<br>
+
+
 # 🛠 Tools  
 
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50"/></a>
