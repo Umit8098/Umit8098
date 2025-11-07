@@ -34,7 +34,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 <a href="#"><img src="https://mui.com/static/logo.png" height="50"/></a>
 
 
-# 🚀 Featured Frontend Projects  
+## 🚀 Featured Frontend Projects  
 
 <h2> 🚀 Featured Frontend Projects </h2>  
 
