@@ -175,6 +175,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>📌 Recipe App – Multipage</h3>
+      <p>A full recipe browsing UI with page transitions and style component architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
@@ -186,6 +187,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
     </td>
     <td width="50%">
       <h3>🎬 Movie App – Firebase Auth</h3>
+      <p>A Firebase authentication + TMDB API powered movie browsing platform.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
@@ -213,6 +215,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
     </td>
     <td width="50%">
       <h3>🅱️ Bootstrap Single Page</h3>
+      <p>A clean single-page bootstrap layout with responsive sections and components.</p>
       <p>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -228,6 +231,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>🛒 Checkout Card</h3>
+      <p>A dynamic shopping cart interface with persistent storage and price calculations.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
@@ -238,6 +242,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
     </td>
     <td width="50%">
       <h3>✅ ToDo App</h3>
+      <p>A simple yet robust task manager app with local persistence.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
@@ -252,6 +257,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>📱 iOS Calculator</h3>
+      <p>A pixel-perfect clone of the Apple iOS calculator UI & logic.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </p>
@@ -261,6 +267,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
     </td>
     <td width="50%">
       <h3>🚩 Flag App – REST API</h3>
+      <p>Search and display country data through an external REST API.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
@@ -275,6 +282,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>🗺️ Tour Places</h3>
+      <p>A mini React gallery showcase with dynamic component rendering.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
@@ -285,6 +293,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
     </td>
     <td width="50%">
       <h3>🗣️ Language Cards</h3>
+      <p>A simple React UI showing reusable card components.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
       </p>
@@ -298,6 +307,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>📚 Tutorial FullStack (React + Django)</h3>
+      <p>A full-stack educational CRUD project using Django REST + React UI.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -308,6 +318,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
     </td>
     <td width="50%">
       <h3>📋 Task Tracker</h3>
+      <p>A React task manager with add/delete/toggle features and persistent storage.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
@@ -322,6 +333,7 @@ A Firebase authentication + TMDB API powered movie browsing platform.
   <tr>
     <td width="50%">
       <h3>⚛️ Modern Multipage Website Layout</h3>
+      <p>A modern multi-page React website with router-based navigation.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
