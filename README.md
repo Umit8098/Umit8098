@@ -459,6 +459,173 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 </table>
 
+<br>
+
+<table>
+
+  <!-- Row 1 -->
+  <tr>
+    <!-- Card 1 -->
+    <td width="50%" valign="top">
+      <h2>✈️ Flight App – REST API</h2>
+      <p>A full-featured flight management API built with Django REST Framework.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p><a href="https://umit8113.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Flight_App_1.gif" height="150"/>
+      </p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top">
+      <h2>📝 Blog API – REST API</h2>
+      <p>A RESTful blog backend with CRUD posts, categories, and authentication.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <!-- Card 1 -->
+    <td width="50%" valign="top">
+      <h2>👤 Personnel App – REST API</h2>
+      <p>Personnel management API with filtering and authorization.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/personnel_swagger.gif" height="150"/>
+      </p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top">
+      <h2>✅ Todo API – REST API</h2>
+      <p>Task management API with Swagger & Redoc documentation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/ToDo_App-2.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h2>📝 Quiz API – REST API</h2>
+      <p>Quiz system with categories, questions and scoring.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/quiz_app.gif" height="150"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>📊 Stock API – REST API</h2>
+      <p>Inventory management API with purchases & sales workflows.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🚗 Rent A Car API – REST API</h2>
+      <p>Car rental CRUD backend with reservation system.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="150"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🔐 Google Auth API – Allauth</h2>
+      <p>Google OAuth2 login integrated with Django REST Framework.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_Allauth-0A84FF?style=flat"/>
+        <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat&logo=google"/>
+      </p>
+      <p><a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Social_Account_Auth_App.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h2>📝 Blog App – FullStack</h2>
+      <p>Django REST + Templates blog system with CRUD UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Blog_App.gif" height="150"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>✅ Todo App – FullStack</h2>
+      <p>Template-based UI + REST backend task manager.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Todo_App_Temp-2.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🌦️ Weather App – FullStack</h2>
+      <p>Weather search UI consuming Django REST API.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/Weather_App_Temp.gif" height="150"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🍕 Pizza App – FullStack</h2>
+      <p>Pizza order UI backed by a Django REST API.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+      </p>
+      <p><a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <img src="./backend-gif1/pizza_app_order.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+
+</table>
 
 
 <br>
