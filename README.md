@@ -53,26 +53,21 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📌 Movie App - Firebase Auth - TMDB API Website | React, Router, Firebase Authentication, TMDB API |[Live Demo](https://firebase-movie-app-umitdev.netlify.app/) |  <p align="center"><a href="https://firebase-movie-app-umitdev.netlify.app/"><img src="./frontend-gif2/movie-app.gif" height="100"/></a></p>|
 
 <br>
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📌 Recipe App – Multipage</h3>
-      <p><strong>Tech:</strong> React, Router, Styled Components</p>
-      <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
-      <br/><br/>
-      <img src="./frontend-gif2/recipe-app.gif" height="140"/>
-    </td>
-    <td width="50%">
-      <h3>🎬 Movie App – Firebase Auth</h3>
-      <p><strong>Tech:</strong> React, Router, Firebase, TMDB API, ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-</p>
-      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
-      <br/><br/>
-      <img src="./frontend-gif2/movie-app.gif" height="140"/>
-    </td>
-  </tr>
-</table>
+| Proje | Teknolojiler | Demo | GIF |
+|-------|--------------|------|-----|
+| 🎨 **SASS Project** | HTML, CSS, Sass | 🔗 [Live Demo](https://umit8098.github.io/Project-Website-HTML-CSS-SASS/) | <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="90"/> |
+| 🅱️ **Bootstrap Project** | Bootstrap 5, HTML, CSS | 🔗 [Live Demo](https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/) | <img src="./frontend-gif2/Bootstrap-WebSite.gif" height="90"/> |
+| 🛒 **Checkout Card** | JavaScript, LocalStorage, SessionStorage | 🔗 [Live Demo](https://umit8098.github.io/Project-js-checkout-shopping_cart/) | <img src="./frontend-gif1/checkout_app.gif" height="90"/> |
+| ✅ **ToDo App** | JavaScript, LocalStorage | 🔗 [Live Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/) | <img src="./frontend-gif1/ToDo.gif" height="90"/> |
+| 📱 **iOS Calculator** | JavaScript | 🔗 [Live Demo](https://umit8098.github.io/Project-js-IOS-Calculator/) | <img src="./frontend-gif1/IOS_Calculator.gif" height="90"/> |
+| 🚩 **Flag App** | JavaScript, REST API | 🔗 [Live Demo](https://umit8098.github.io/Project-js-Flag-App/) | <img src="./frontend-gif1/flag-app.gif" height="90"/> |
+| 🗺️ **Tour Places** | React, Sass | 🔗 [Live Demo](https://umit8098.github.io/React_Proj_Tour_Places/) | <img src="./frontend-gif1/tour-project.gif" height="90"/> |
+| 🗣️ **Language Cards** | React | 🔗 [Live Demo](https://umit8098.github.io/React-Project-Language-Cards/) | <img src="./frontend-gif1/Language-Card.gif" height="90"/> |
+| 📚 **Tutorial FullStack (React + Django)** | React, Django | 🔗 [Live Demo](https://umit8098.github.io/React-Project-Tutorial-FullStack/) | <img src="./frontend-gif1/tutorial.gif" height="90"/> |
+| 📋 **Task Tracker** | React, LocalStorage | 🔗 [Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) | <img src="./frontend-gif1/task-tracker.gif" height="90"/> |
+| ⚛️ **Modern Multipage Website Layout** | React, React Router | 🔗 [Live Demo](https://umit8098.github.io/React-Project-Router/) | <img src="./frontend-gif2/router-project.gif" height="90"/> |
+| 📌 **Recipe App – Multipage Website** | React, React Router, Styled Components | 🔗 [Live Demo](https://recipe-app-umitdev.netlify.app/) | <img src="./frontend-gif2/recipe-app.gif" height="90"/> |
+| 🎬 **Movie App – Firebase Auth + TMDB API** | React, Router, Firebase Auth, TMDB API | 🔗 [Live Demo](https://firebase-movie-app-umitdev.netlify.app/) | <img src="./frontend-gif2/movie-app.gif" height="90"/> |
 
 <br>
 <!--
