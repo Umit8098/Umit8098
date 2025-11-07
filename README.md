@@ -187,6 +187,174 @@ A Firebase authentication + TMDB API powered movie browsing platform.
 
 <br>
 
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%">
+      <h3>📌 Recipe App – Multipage</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+      </p>
+      <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/recipe-app.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>🎬 Movie App – Firebase Auth</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
+      </p>
+      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/movie-app.gif" height="140"/>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%">
+      <h3>🎨 SASS Landing Page</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+      </p>
+      <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>🅱️ Bootstrap Single Page</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/Bootstrap-WebSite.gif" height="140"/>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%">
+      <h3>🛒 Checkout Card</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
+      </p>
+      <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/checkout_app.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>✅ ToDo App</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
+      </p>
+      <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/ToDo.gif" height="140"/>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%">
+      <h3>📱 iOS Calculator</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/IOS_Calculator.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>🚩 Flag App – REST API</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+      </p>
+      <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/flag-app.gif" height="140"/>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td width="50%">
+      <h3>🗺️ Tour Places</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+      </p>
+      <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/tour-project.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>🗣️ Language Cards</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      </p>
+      <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/Language-Card.gif" height="140"/>
+    </td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td width="50%">
+      <h3>📚 Tutorial FullStack (React + Django)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+      </p>
+      <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/tutorial.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>📋 Task Tracker</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
+      </p>
+      <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif1/task-tracker.gif" height="140"/>
+    </td>
+  </tr>
+
+  <!-- Row 7 -->
+  <tr>
+    <td width="50%">
+      <h3>⚛️ Modern Multipage Website Layout</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+      </p>
+      <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="./frontend-gif2/router-project.gif" height="140"/>
+    </td>
+    <td width="50%">
+      <h3>—</h3>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
 
 <!--
 <p>
