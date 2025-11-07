@@ -258,7 +258,6 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 <br>
 
 <table>
-
   <!-- Row 1 -->
   <tr>
     <!-- Card 1 -->
@@ -420,9 +419,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
     </td>
   </tr>
-
 </table>
-
 
 <br>
 
@@ -448,7 +445,10 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 <p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=tokyonight" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight&" alt="my commit status" width="49%" /> </p>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umit8098&theme=tokyonight&" alt="my commit status" width="49%" />  -->
+<img src="https://streak-stats.demolab.com?user=Umit8098&theme=tokyonight" alt="my commit status" width="49%" />
+</p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="49%" >
