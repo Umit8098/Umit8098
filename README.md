@@ -50,7 +50,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 | 📋 Task Tracker | React, LocalStorage |[Live Demo](https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/) |  <p align="center"><a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/"><img src="./frontend-gif1/task-tracker.gif" height="100"/></a></p>|
 | ⚛️ Modern Multipage Website Layout | React, Router |[Live Demo](https://umit8098.github.io/React-Project-Router/) |  <p align="center"><a href="https://umit8098.github.io/React-Project-Router/"><img src="./frontend-gif2/router-project.gif" height="100"/></a></p>|
 | 📌 Recipe App - Multipage Website | React, Router, Style Component |[Live Demo](https://recipe-app-umitdev.netlify.app/) |  <p align="center"><a href="https://recipe-app-umitdev.netlify.app/"><img src="./frontend-gif2/recipe-app.gif" height="100"/></a></p>|
-| 📌 Recipe App - Multipage Website | React, Router, Style Component |[Live Demo](https://recipe-app-umitdev.netlify.app/) |  <p align="center"><a href="https://recipe-app-umitdev.netlify.app/"><img src="./frontend-gif2/movie-app.gif" height="100"/></a></p>|
+| 📌 Movie App - Firebase Auth - TMDB API Website | React, Router, Firebase Authentication, TMDB API |[Live Demo](https://firebase-movie-app-umitdev.netlify.app/) |  <p align="center"><a href="https://firebase-movie-app-umitdev.netlify.app/"><img src="./frontend-gif2/movie-app.gif" height="100"/></a></p>|
 
 <!--
 <p>
