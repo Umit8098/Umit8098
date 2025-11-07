@@ -72,6 +72,101 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 
 
 <br>
+
+<br>
+
+## 🎨 SASS Project — *HTML, CSS, Sass*
+A responsive landing page built using Sass with modern UI components.  
+🔗 **Live Demo:** https://umit8098.github.io/Project-Website-HTML-CSS-SASS/  
+<img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="120"/>
+
+---
+
+## 🅱️ Bootstrap Project — *Bootstrap5, HTML, CSS*
+A clean single-page bootstrap layout with responsive sections and components.  
+🔗 **Live Demo:** https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/  
+<img src="./frontend-gif2/Bootstrap-WebSite.gif" height="120"/>
+
+---
+
+## 🛒 Checkout Card — *JavaScript, LocalStorage, SessionStorage*
+A dynamic shopping cart interface with persistent storage and price calculations.  
+🔗 **Live Demo:** https://umit8098.github.io/Project-js-checkout-shopping_cart/  
+<img src="./frontend-gif1/checkout_app.gif" height="120"/>
+
+---
+
+## ✅ ToDo App — *JavaScript, LocalStorage*
+A simple yet robust task manager app with local persistence.  
+🔗 **Live Demo:** https://umit8098.github.io/Project-js-ToDo-LocalStorage/  
+<img src="./frontend-gif1/ToDo.gif" height="120"/>
+
+---
+
+## 📱 iOS Calculator — *JavaScript*
+A pixel-perfect clone of the Apple iOS calculator UI & logic.  
+🔗 **Live Demo:** https://umit8098.github.io/Project-js-IOS-Calculator/  
+<img src="./frontend-gif1/IOS_Calculator.gif" height="120"/>
+
+---
+
+## 🚩 Flag App — *JavaScript, REST API*
+Search and display country data through an external REST API.  
+🔗 **Live Demo:** https://umit8098.github.io/Project-js-Flag-App/  
+<img src="./frontend-gif1/flag-app.gif" height="120"/>
+
+---
+
+## 🗺️ Tour Places — *React, Sass*
+A mini React gallery showcase with dynamic component rendering.  
+🔗 **Live Demo:** https://umit8098.github.io/React_Proj_Tour_Places/  
+<img src="./frontend-gif1/tour-project.gif" height="120"/>
+
+---
+
+## 🗣️ Language Cards — *React*
+A simple React UI showing reusable card components.  
+🔗 **Live Demo:** https://umit8098.github.io/React-Project-Language-Cards/  
+<img src="./frontend-gif1/Language-Card.gif" height="120"/>
+
+---
+
+## 📚 Tutorial FullStack — *React + Django*
+A full-stack educational CRUD project using Django REST + React UI.  
+🔗 **Live Demo:** https://umit8098.github.io/React-Project-Tutorial-FullStack/  
+<img src="./frontend-gif1/tutorial.gif" height="120"/>
+
+---
+
+## 📋 Task Tracker — *React, LocalStorage*
+A React task manager with add/delete/toggle features and persistent storage.  
+🔗 **Live Demo:** https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/  
+<img src="./frontend-gif1/task-tracker.gif" height="120"/>
+
+---
+
+## ⚛️ Modern Multipage Website — *React, Router*
+A modern multi-page React website with router-based navigation.  
+🔗 **Live Demo:** https://umit8098.github.io/React-Project-Router/  
+<img src="./frontend-gif2/router-project.gif" height="120"/>
+
+---
+
+## 📌 Recipe App — *React, Router, Styled Components*
+A full recipe browsing UI with page transitions and style component architecture.  
+🔗 **Live Demo:** https://recipe-app-umitdev.netlify.app/  
+<img src="./frontend-gif2/recipe-app.gif" height="120"/>
+
+---
+
+## 🎬 Movie App — *React, Firebase Auth, TMDB API*
+A Firebase authentication + TMDB API powered movie browsing platform.  
+🔗 **Live Demo:** https://firebase-movie-app-umitdev.netlify.app/  
+<img src="./frontend-gif2/movie-app.gif" height="120"/>
+
+<br>
+
+
 <!--
 <p>
   <a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="200" width="200"/></a>
