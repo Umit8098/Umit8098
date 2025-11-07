@@ -214,23 +214,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   </tr>
 </table>
 
-
 <br>
-
-
-
 <br>
-
-
-<!--
-<p>
-  <a href="https://umit8098.github.io/React-Project-Language-Cards/"><img src="./project-gif/Language-Card.gif" height="200" width="200"/></a>
-</p>
--->
-<!--![project-gif](./project-gif/tutorial.gif)-->
-
 <br>
-
 
 # ⚙ Backend  
 
