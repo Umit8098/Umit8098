@@ -42,7 +42,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>📌 React Firebase Contacts App</h2>
       <p>React ve Firebase kullanılarak geliştirilmiş modern bir Contact Management Application’dır.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
@@ -61,7 +61,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🎬 Movie App – Firebase Auth</h2>
       <p>A Firebase authentication + TMDB API powered movie browsing platform.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
@@ -83,7 +83,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>📌 Recipe App – Multipage</h2>
       <p>A full recipe browsing UI with page transitions and style component architecture.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
         <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
@@ -102,7 +102,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🎬 Movie App – Firebase Auth</h2>
       <p>A Firebase authentication + TMDB API powered movie browsing platform.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
@@ -125,7 +125,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🎨 SASS Landing Page</h2>
       <p>A responsive landing page built using Sass with modern UI components.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
@@ -142,14 +142,16 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🅱️ Bootstrap Single Page</h2>
       <p>A clean single-page bootstrap layout with responsive sections and components.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
       </p>
-      <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">
           <img src="./frontend-gif2/Bootstrap-WebSite.gif" height="150"/>
@@ -163,13 +165,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🛒 Checkout Card</h2>
       <p>A dynamic shopping cart interface with persistent storage and price calculations.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
       </p>
-      <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
           <img src="./frontend-gif1/checkout_app.gif" height="150"/>
@@ -179,13 +183,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>✅ ToDo App</h2>
       <p>A simple yet robust task manager app with local persistence.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
       </p>
-      <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">
           <img src="./frontend-gif1/ToDo.gif" height="150"/>
@@ -199,12 +205,14 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>📱 iOS Calculator</h2>
       <p>A pixel-perfect clone of the Apple iOS calculator UI & logic.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </p>
+      <p align="center">
       <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">🔗 Live Demo</a>
         &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">
           <img src="./frontend-gif1/IOS_Calculator.gif" height="150"/>
@@ -214,13 +222,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🚩 Flag App – REST API</h2>
       <p>Search and display country data through an external REST API.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
       </p>
-      <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/Project-js-Flag-App/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/Project-js-Flag-App/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-Flag-App/">
           <img src="./frontend-gif1/flag-app.gif" height="150"/>
@@ -234,13 +244,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🗺️ Tour Places</h2>
       <p>A mini React gallery showcase with dynamic component rendering.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
       </p>
-      <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/React_Proj_Tour_Places/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/React_Proj_Tour_Places/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
           <img src="./frontend-gif1/tour-project.gif" height="150"/>
@@ -250,12 +262,14 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>🗣️ Language Cards</h2>
       <p>A simple React UI showing reusable card components.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
       </p>
-      <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/React-Project-Language-Cards/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/React-Project-Language-Cards/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Language-Cards/">
           <img src="./frontend-gif1/Language-Card.gif" height="150"/>
@@ -269,13 +283,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>📚 Tutorial FullStack (React + Django)</h2>
       <p>A full-stack educational CRUD project using Django REST + React UI.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
-      <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">
           <img src="./frontend-gif1/tutorial.gif" height="150"/>
@@ -285,13 +301,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>📋 Task Tracker</h2>
       <p>A React task manager with add/delete/toggle features and persistent storage.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
       </p>
-      <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">
           <img src="./frontend-gif1/task-tracker.gif" height="150"/>
@@ -305,13 +323,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     <td width="50%">
       <h2>⚛️ Modern Multipage Website Layout</h2>
       <p>A modern multi-page React website with router-based navigation.</p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
       </p>
-      <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/React-Project-Router/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/React-Project-Router/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Router/">
           <img src="./frontend-gif2/router-project.gif" height="150"/>
