@@ -622,11 +622,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 <p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umit8098&theme=tokyonight&cache_seconds=86400" width="49%"/>&nbsp;
 
-<img src="https://streak-stats.demolab.com?user=umit8098&theme=tokyonight&v=2" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=umit8098&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit8098&theme=tokyonight&layout=compact&v=2" alt="languages" width="40%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit8098&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2&v=1" alt="languages" width="40%" >
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umit8098" alt="Umit8098" width="20%" /> </p>
