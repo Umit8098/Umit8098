@@ -394,7 +394,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/quiz_app.gif" height="150"/>
+        <a href="https://umit8102.pythonanywhere.com/">
+          <img src="./backend-gif1/quiz_app.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -405,7 +407,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="150"/>
+        <a href="https://umit8103.pythonanywhere.com/">
+          <img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -420,7 +424,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="150"/>
+        <a href="https://umit8104.pythonanywhere.com/">
+          <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -432,7 +438,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Social_Account_Auth_App.gif" height="150"/>
+        <a href="https://umit8110.pythonanywhere.com/">
+          <img src="./backend-gif1/Social_Account_Auth_App.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -447,7 +455,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Blog_App.gif" height="150"/>
+        <a href="https://umit8112.pythonanywhere.com/">
+          <img src="./backend-gif1/Blog_App.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -458,7 +468,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Todo_App_Temp-2.gif" height="150"/>
+        <a href="https://umit8106.pythonanywhere.com/">
+          <img src="./backend-gif1/Todo_App_Temp-2.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -473,7 +485,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Weather_App_Temp.gif" height="150"/>
+        <a href="https://umit8108.pythonanywhere.com/">
+          <img src="./backend-gif1/Weather_App_Temp.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -484,7 +498,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/pizza_app_order.gif" height="150"/>
+        <a href="https://umit8111.pythonanywhere.com/">
+          <img src="./backend-gif1/pizza_app_order.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
