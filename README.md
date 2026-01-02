@@ -52,7 +52,6 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://umitdev-firecontact.netlify.app/">📂 Repository<a>
       </p>
-      <br/>
       <p align="center">
         <a href="https://umitdev-firecontact.netlify.app/">
           <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
@@ -72,7 +71,6 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://firebase-movie-app-umitdev.netlify.app/">📂 Repository</a>
       </p>
-      <br/>
       <p align="center">
         <a href="https://firebase-movie-app-umitdev.netlify.app/">
           <img src="./frontend-gif2/movie-app.gif" height="150"/>
