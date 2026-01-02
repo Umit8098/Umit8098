@@ -50,7 +50,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-      <a href="https://umitdev-firecontact.netlify.app/">
+      <a href="https://umitdev-firecontact.netlify.app/" target="_blank">
         <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
       </a>
       </p>
