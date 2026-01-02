@@ -130,9 +130,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
       </p>
-      <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">🔗 Live Demo</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">📂 Repository</a>
+      <p align="center">
+        <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">
           <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="150"/>
