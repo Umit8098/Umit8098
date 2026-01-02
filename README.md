@@ -91,7 +91,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://recipe-app-umitdev.netlify.app/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Recipe-App.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://recipe-app-umitdev.netlify.app/">
@@ -110,7 +110,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://firebase-movie-app-umitdev.netlify.app/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Firebase-Movie-App.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://firebase-movie-app-umitdev.netlify.app/">
@@ -133,7 +133,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project-Website-HTML-CSS-SASS.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">
@@ -152,7 +152,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project-Bootstrap-Single-Page-Website.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">
@@ -174,7 +174,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project-js-checkout-shopping_cart.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
@@ -192,7 +192,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project-js-ToDo-LocalStorage.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">
@@ -213,7 +213,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
       <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">🔗 Live Demo</a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">📂 Repository</a>
+      <a href="https://github.com/Umit8098/Project-js-IOS-Calculator.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">
@@ -231,7 +231,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/Project-js-Flag-App/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project-js-Flag-App.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-Flag-App/">
@@ -253,7 +253,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/React_Proj_Tour_Places/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React_Proj_Tour_Places.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
@@ -270,7 +270,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/React-Project-Language-Cards/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Language-Cards.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Language-Cards/">
@@ -292,7 +292,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Tutorial-FullStack.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">
@@ -310,7 +310,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Task-Tracker-Single-Page.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">
@@ -332,7 +332,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8098.github.io/React-Project-Router/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Router.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Router/">
