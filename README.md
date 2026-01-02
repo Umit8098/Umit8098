@@ -331,7 +331,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8113.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Flight_App_1.gif" height="150"/>
+        <a href="https://umit8113.pythonanywhere.com/">
+          <img src="./backend-gif1/Flight_App_1.gif" height="150"/>
+        </a>
       </p>
     </td>
     <!-- Card 2 -->
@@ -343,7 +345,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="150"/>
+        <a href="https://umit8114.pythonanywhere.com/">
+          <img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -359,7 +363,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/personnel_swagger.gif" height="150"/>
+        <a href="https://umit8100.pythonanywhere.com/">
+          <img src="./backend-gif1/personnel_swagger.gif" height="150"/>
+        </a>
       </p>
     </td>
     <!-- Card 2 -->
@@ -371,7 +377,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p><a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a></p>
       <p align="center">
-        <img src="./backend-gif1/ToDo_App-2.gif" height="150"/>
+        <a href="https://umit8101.pythonanywhere.com/">
+          <img src="./backend-gif1/ToDo_App-2.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
