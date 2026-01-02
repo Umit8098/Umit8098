@@ -620,16 +620,16 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
 ## 📊 GitHub Stats  
 
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umit8098&theme=tokyonight" width="49%"/>&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umit8098&theme=tokyonight&cache_seconds=86400" width="49%"/>&nbsp;
 
-<img src="https://streak-stats.demolab.com?user=Umit8098&theme=tokyonight" width="49%" />
+<img src="https://streak-stats.demolab.com?user=umit8098&theme=tokyonight&cache_seconds=86400" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umit8098&theme=tokyonight&layout=compact" alt="languages" width="49%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit8098&theme=tokyonight&layout=compact&cache_seconds=86400" alt="languages" width="40%" >
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Umit8098" alt="Umit8098" width="20%" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=umit8098" alt="Umit8098" width="20%" /> </p>
 
 <br>
 
