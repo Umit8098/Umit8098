@@ -50,9 +50,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-      <a href="https://umitdev-firecontact.netlify.app/" target="_blank">
-        <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
-      </a>
+        <a href="https://umitdev-firecontact.netlify.app/">
+          <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -66,7 +66,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif2/movie-app.gif" height="150"/>
+        <a href="https://firebase-movie-app-umitdev.netlify.app/">
+          <img src="./frontend-gif2/movie-app.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -83,7 +85,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif2/recipe-app.gif" height="150"/>
+        <a href="https://recipe-app-umitdev.netlify.app/">
+          <img src="./frontend-gif2/recipe-app.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -97,7 +101,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif2/movie-app.gif" height="150"/>
+        <a href="https://firebase-movie-app-umitdev.netlify.app/">
+          <img src="./frontend-gif2/movie-app.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -115,7 +121,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">
+          <img src="./frontend-gif2/Sass-Website-Page-Design.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -129,7 +137,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif2/Bootstrap-WebSite.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">
+          <img src="./frontend-gif2/Bootstrap-WebSite.gif" height="150"/>
+        </a>
       <p>
     </td>
   </tr>
@@ -146,7 +156,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/checkout_app.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
+          <img src="./frontend-gif1/checkout_app.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -159,7 +171,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/ToDo.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">
+          <img src="./frontend-gif1/ToDo.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -175,7 +189,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/IOS_Calculator.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">
+          <img src="./frontend-gif1/IOS_Calculator.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -188,7 +204,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/flag-app.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-js-Flag-App/">
+          <img src="./frontend-gif1/flag-app.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -205,7 +223,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/tour-project.gif" height="150"/>
+        <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+          <img src="./frontend-gif1/tour-project.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -217,7 +237,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/Language-Card.gif" height="150"/>
+        <a href="https://umit8098.github.io/React-Project-Language-Cards/">
+          <img src="./frontend-gif1/Language-Card.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -234,7 +256,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/tutorial.gif" height="150"/>
+        <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">
+          <img src="./frontend-gif1/tutorial.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -247,7 +271,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif1/task-tracker.gif" height="150"/>
+        <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">
+          <img src="./frontend-gif1/task-tracker.gif" height="150"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -264,7 +290,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
       <br/><br/>
       <p align="center">
-        <img src="./frontend-gif2/router-project.gif" height="150"/>
+        <a href="https://umit8098.github.io/React-Project-Router/">
+          <img src="./frontend-gif2/router-project.gif" height="150"/>
+        </a>
       </p>
     </td>
     <td width="50%">
