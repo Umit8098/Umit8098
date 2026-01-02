@@ -377,7 +377,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8113.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8113.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Flight_App_CH-12.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8113.pythonanywhere.com/">
@@ -395,7 +395,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8114.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Blog_App_CH-12_V.02.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">
@@ -417,7 +417,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8100.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framawork_Personnel_App_CH-12.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8100.pythonanywhere.com/">
@@ -435,7 +435,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8101.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Todo_App_CH-12.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8101.pythonanywhere.com/">
@@ -456,7 +456,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8102.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Quiz_App_CH-11_V.01.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8102.pythonanywhere.com/">
@@ -473,7 +473,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8103.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Stock_App_CH-13.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8103.pythonanywhere.com/">
@@ -494,7 +494,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8104.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Rent_A_Car_App_CH-12.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8104.pythonanywhere.com/">
@@ -512,7 +512,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8110.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Proj_Auth_Dj_Allauth_Google_Official_doc_CH-11_V.02.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">
@@ -533,7 +533,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8112.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Proj_Django_Temp_Blog_App_CH-8.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8112.pythonanywhere.com/">
@@ -550,7 +550,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8106.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Templates_Authantication-1_Todo_App_Class_Based_CH-11.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">
@@ -571,7 +571,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8108.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Proj_WeatherApp-API-_Temp_Auth-2_email_CH-11_V.04.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">
@@ -588,7 +588,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://umit8111.pythonanywhere.com/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project_Django_Templates_Pizza_App_CH-12_V.03.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8111.pythonanywhere.com/">
