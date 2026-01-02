@@ -47,7 +47,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
       </p>
-      <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
+      <p align="center">
+        <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umitdev-firecontact.netlify.app/">📂 Repository<a>
+      </p>
       <br/><br/>
       <p align="center">
         <a href="https://umitdev-firecontact.netlify.app/">
@@ -63,7 +67,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
-      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <p align="center">
+        <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://firebase-movie-app-umitdev.netlify.app/">📂 Repository</a>
+      </p>
       <br/><br/>
       <p align="center">
         <a href="https://firebase-movie-app-umitdev.netlify.app/">
@@ -82,7 +90,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
         <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
       </p>
-      <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <p align="center">
+        <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://recipe-app-umitdev.netlify.app/">📂 Repository</a>
+      </p>
       <br/><br/>
       <p align="center">
         <a href="https://recipe-app-umitdev.netlify.app/">
@@ -98,7 +110,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
-      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <p align="center">
+        <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://firebase-movie-app-umitdev.netlify.app/">📂 Repository</a>
+      </p>
       <br/><br/>
       <p align="center">
         <a href="https://firebase-movie-app-umitdev.netlify.app/">
@@ -119,6 +135,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
       </p>
       <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">
@@ -135,6 +153,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
       </p>
       <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">
@@ -154,6 +174,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
       </p>
       <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
@@ -169,6 +191,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
       </p>
       <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">
@@ -187,6 +211,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </p>
       <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">
@@ -202,6 +228,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
       </p>
       <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/Project-js-Flag-App/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-Flag-App/">
@@ -221,6 +249,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
       </p>
       <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/React_Proj_Tour_Places/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
@@ -235,6 +265,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
       </p>
       <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/React-Project-Language-Cards/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Language-Cards/">
@@ -254,6 +286,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">
@@ -269,6 +303,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
       </p>
       <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">
@@ -288,6 +324,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
       </p>
       <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://umit8098.github.io/React-Project-Router/">📂 Repository</a>
       <br/><br/>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Router/">
@@ -329,7 +367,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p><a href="https://umit8113.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8113.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8113.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8113.pythonanywhere.com/">
           <img src="./backend-gif1/Flight_App_1.gif" height="150"/>
@@ -343,7 +385,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8114.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">
           <img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="150"/>
@@ -361,7 +407,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8100.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8100.pythonanywhere.com/">
           <img src="./backend-gif1/personnel_swagger.gif" height="150"/>
@@ -375,7 +425,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8101.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8101.pythonanywhere.com/">
           <img src="./backend-gif1/ToDo_App-2.gif" height="150"/>
@@ -392,7 +446,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8102.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8102.pythonanywhere.com/">
           <img src="./backend-gif1/quiz_app.gif" height="150"/>
@@ -405,7 +463,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8103.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8103.pythonanywhere.com/">
           <img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="150"/>
@@ -422,7 +484,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8104.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8104.pythonanywhere.com/">
           <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="150"/>
@@ -436,7 +502,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Django_Allauth-0A84FF?style=flat"/>
         <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat&logo=google"/>
       </p>
-      <p><a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8110.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">
           <img src="./backend-gif1/Social_Account_Auth_App.gif" height="150"/>
@@ -453,7 +523,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8112.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8112.pythonanywhere.com/">
           <img src="./backend-gif1/Blog_App.gif" height="150"/>
@@ -466,7 +540,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8106.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">
           <img src="./backend-gif1/Todo_App_Temp-2.gif" height="150"/>
@@ -483,7 +561,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8108.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">
           <img src="./backend-gif1/Weather_App_Temp.gif" height="150"/>
@@ -496,7 +578,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
       </p>
-      <p><a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a></p>
+      <p align="center">
+        <a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://umit8111.pythonanywhere.com/">📂 Repository</a>
+      </p>
       <p align="center">
         <a href="https://umit8111.pythonanywhere.com/">
           <img src="./backend-gif1/pizza_app_order.gif" height="150"/>
