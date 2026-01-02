@@ -40,6 +40,37 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <!-- Row 1 -->
   <tr>
     <td width="50%">
+      <h2>📌 React Firebase Contacts App</h2>
+      <p>React ve Firebase kullanılarak geliştirilmiş modern bir Contact Management Application’dır.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+        <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
+      </p>
+      <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <p align="center">
+        <img src="./frontend-gif2/recipe-app.gif" height="150"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h2>🎬 Movie App – Firebase Auth</h2>
+      <p>A Firebase authentication + TMDB API powered movie browsing platform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
+      </p>
+      <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <p align="center">
+        <img src="./frontend-gif2/movie-app.gif" height="150"/>
+      </p>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%">
       <h2>📌 Recipe App – Multipage</h2>
       <p>A full recipe browsing UI with page transitions and style component architecture.</p>
       <p>
@@ -101,7 +132,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
   </tr>
 
-  <!-- Row 3 -->
+  <!-- Row 4 -->
   <tr>
     <td width="50%">
       <h2>🛒 Checkout Card</h2>
@@ -131,7 +162,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
   </tr>
 
-  <!-- Row 4 -->
+  <!-- Row 5 -->
   <tr>
     <td width="50%">
       <h2>📱 iOS Calculator</h2>
@@ -160,7 +191,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
   </tr>
 
-  <!-- Row 5 -->
+  <!-- Row 6 -->
   <tr>
     <td width="50%">
       <h2>🗺️ Tour Places</h2>
@@ -189,7 +220,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
   </tr>
 
-  <!-- Row 6 -->
+  <!-- Row 7 -->
   <tr>
     <td width="50%">
       <h2>📚 Tutorial FullStack (React + Django)</h2>
@@ -219,7 +250,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
   </tr>
 
-  <!-- Row 7 -->
+  <!-- Row 8 -->
   <tr>
     <td width="50%">
       <h2>⚛️ Modern Multipage Website Layout</h2>
