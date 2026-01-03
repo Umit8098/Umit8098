@@ -59,21 +59,21 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
     </td>
     <td width="50%">
-      <h2>🎬 Movie App – Firebase Auth</h2>
-      <p>A Firebase authentication + TMDB API powered movie browsing platform.</p>
+      <h2>📰 React Firebase News App</h2>
+      <p>A Firebase authentication + News portal platform.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
+        <a href="https://news-v2-umitdev.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://firebase-movie-app-umitdev.netlify.app/">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-11.3-news-API-netlify.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://firebase-movie-app-umitdev.netlify.app/">
-          <img src="./frontend-gif2/movie-app.gif" height="150"/>
+        <a href="https://news-v2-umitdev.netlify.app/">
+          <img src="./frontend-gif2/news-app.gif" height="150"/>
         </a>
       </p>
     </td>
