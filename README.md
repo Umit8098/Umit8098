@@ -63,8 +63,9 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p>A Firebase authentication + News portal platform.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/News_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://news-v2-umitdev.netlify.app/">🔗 Live Demo</a>
