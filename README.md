@@ -59,12 +59,15 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
     </td>
     <td width="50%">
-      <h2>📰 React Firebase News App</h2>
-      <p>A Firebase authentication + News portal platform.</p>
+      <h2>📰 React News App (Firebase & Netlify)</h2>
+      <p>A modern React news application with Firebase authentication, protected routes,
+  Redux Toolkit state management, and secure NewsAPI integration via Netlify Functions.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Netlify_Functions-00C7B7?style=flat&logo=netlify&logoColor=white"/>
         <img src="https://img.shields.io/badge/News_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
       <p align="center">
