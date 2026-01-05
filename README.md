@@ -495,7 +495,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <!-- Row 4 -->
   <tr>
     <td width="50%" valign="top">
-      <h2>🚗 Rent A Car API – REST API</h2>
+      <h2>🚗 Rent A Car REST API</h2>
       <p>Car rental CRUD backend with reservation system.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
