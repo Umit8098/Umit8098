@@ -174,7 +174,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <!-- Row 4 -->
   <tr>
     <td width="50%">
-      <h2>🛒 Checkout Card</h2>
+      <h2>🛒 Checkout/Shopping Card - Javascript</h2>
       <p>A dynamic shopping cart interface with persistent storage and price calculations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
