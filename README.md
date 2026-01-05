@@ -457,7 +457,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h2>📝 Quiz API – REST API</h2>
+      <h2>📝 Quiz REST API</h2>
       <p>Quiz system with categories, questions and scoring.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
