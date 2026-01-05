@@ -377,7 +377,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h2>✈️ Flight App – REST API</h2>
+      <h2>✈️ Flight Reservation API Django REST Framework</h2>
       <p>A full-featured flight management API built with Django REST Framework.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -396,7 +396,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <!-- Card 2 -->
     <td width="50%" valign="top">
-      <h2>📝 Blog API – REST API</h2>
+      <h2>📝 Blog REST API</h2>
       <p>A RESTful blog backend with CRUD posts, categories, and authentication.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
@@ -418,7 +418,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h2>👤 Personnel App – REST API</h2>
+      <h2>👤 Personnel Management REST API</h2>
       <p>Personnel management API with filtering and authorization.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
