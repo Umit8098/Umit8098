@@ -64,7 +64,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
       <p align="center">
         <a href="https://blog-umitdev.netlify.app/">
-          <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
+          <img src="./frontend-gif2/blog-app.gif" height="150"/>
         </a>
       </p>
     </td>
