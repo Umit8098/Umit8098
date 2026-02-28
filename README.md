@@ -1,16 +1,14 @@
 
 ## 👋 Hi there
 
-Hi, I’m **Ümit** 👋  
-I’m a **Full-Stack Developer** focused on building web applications with **React** & **Django**.
+Hi, I’m **Ümit**.  
+I’m a **Full-Stack Developer** building web applications with **React**, **Django**, and **PostgreSQL**.
 
-💻 JavaScript • React • Python • Django • PostgreSQL     
-🚀 Focused on building scalable web apps and exploring new technologies.  
-✨ A lifelong learner, motivated to grow and excel in the IT industry.  
-
-🌱 Currently learning: Python, JavaScript, React, Django, WordPress, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Bootstrap  
-👯 Always open to collaboration on exciting Full-Stack projects  
-📫 How to reach me:  
+💻 **Core Stack:** JavaScript, React, Redux Toolkit, Python, Django, PostgreSQL  
+🚀 **Focus:** Frontend architecture, authentication flows, CRUD systems, and responsive UI  
+🌱 **Currently Learning:** TypeScript, Next.js, advanced Django patterns  
+👯 **Open to:** Junior Frontend / Full-Stack opportunities and collaboration  
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/) • [Gmail](mailto:umitarat8098@gmail.com)
 
 <br>
 
@@ -41,11 +39,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>📝 React Firebase Blog App</h2>
-      <p>Mobile-first, production-ready blog app with
-    <strong>Firebase Auth</strong>, <strong>Firestore CRUD</strong>,
-    <strong>image upload</strong>, <strong>like system</strong>,
-    <strong>protected routes</strong>, and
-    <strong>dark/light mode persistence</strong>.
+      <p>Mobile-first blog platform with Firebase Authentication, Firestore CRUD, image upload, like interactions, protected routes, and persistent dark/light mode.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
@@ -70,8 +64,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>📰 React News App (Firebase & Netlify)</h2>
-      <p>A modern React news application with Firebase authentication, protected routes,
-  Redux Toolkit state management, and secure NewsAPI integration via Netlify Functions.</p>
+      <p>React news app with Firebase Auth, protected routing, Redux Toolkit state management, and secure NewsAPI integration via Netlify Functions.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
@@ -96,10 +90,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>📌 React Contacts App (Firebase)</h2>
-      <p>A modern contact management application built with React and Firebase,
-  featuring authentication-based protected routes, full CRUD operations,
-  and a clean Material UI interface.
-      </p>
+      <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
@@ -110,7 +101,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-12-firecontact-app.git">📂 Repository<a>
+        <a href="https://github.com/Umit8098/React-Project-12-firecontact-app.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umitdev-firecontact.netlify.app/">
@@ -120,7 +111,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>🎬 Movie App – Firebase Auth</h2>
-      <p>A Firebase authentication + TMDB API powered movie browsing platform.</p>
+      <p>Movie discovery app using Firebase Authentication and TMDB API with route-based navigation and reusable React components.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
@@ -143,7 +134,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>🎨 SASS Landing Page</h2>
-      <p>A responsive landing page built using Sass with modern UI components.</p>
+      <p>Responsive landing page built with Sass architecture, reusable style structure, and modern UI section layout.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -162,7 +154,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>🅱️ Bootstrap Single Page</h2>
-      <p>A clean single-page bootstrap layout with responsive sections and components.</p>
+      <p>Single-page responsive website built with Bootstrap grid system, reusable components, and clean section hierarchy.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -177,7 +169,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <a href="https://umit8098.github.io/Project-Bootstrap-Single-Page-Website/">
           <img src="./frontend-gif2/Bootstrap-WebSite.gif" height="150"/>
         </a>
-      <p>
+      </p>
     </td>
   </tr>
 
@@ -185,7 +177,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>🛒 Checkout/Shopping Card - Javascript</h2>
-      <p>A dynamic shopping cart interface with persistent storage and price calculations.</p>
+      <p>JavaScript shopping cart application with dynamic quantity controls, price calculation logic, and LocalStorage persistence.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
@@ -203,7 +195,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>✅ ToDo App</h2>
-      <p>A simple yet robust task manager app with local persistence.</p>
+      <p>Task management app with create/update/delete flows and LocalStorage-based persistence for user tasks.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
@@ -225,7 +218,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>📱 iOS Calculator</h2>
-      <p>A pixel-perfect clone of the Apple iOS calculator UI & logic.</p>
+      <p>JavaScript iOS calculator clone implementing arithmetic operations, state transitions, and pixel-focused UI behavior.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </p>
@@ -242,7 +236,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>📌 Recipe App – Multipage</h2>
-      <p>A full recipe browsing UI with page transitions and style component architecture.</p>
+      <p>Multi-page React recipe application with React Router navigation, styled-components design system, and API-based recipe browsing.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
@@ -265,7 +260,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>🗺️ Tour Places</h2>
-      <p>A mini React gallery showcase with dynamic component rendering.</p>
+      <p>React travel listing app with reusable card components, dynamic rendering, and responsive Sass-based UI styling.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
@@ -283,7 +279,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>🗣️ Language Cards</h2>
-      <p>A simple React UI showing reusable card components.</p>
+      <p>Interactive React flashcard app with component-based architecture and state-driven language card rendering.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
       </p>
@@ -304,7 +301,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>📚 Tutorial FullStack (React + Django)</h2>
-      <p>A full-stack educational CRUD project using Django REST + React UI.</p>
+      <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -322,7 +320,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>📋 Task Tracker</h2>
-      <p>A React task manager with add/delete/toggle features and persistent storage.</p>
+      <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
@@ -344,7 +343,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>🚩 Flag App – REST API</h2>
-      <p>Search and display country data through an external REST API.</p>
+      <p>JavaScript country explorer app consuming REST API data with search, filtering, and dynamic DOM rendering.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
@@ -362,7 +362,8 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
     </td>
     <td width="50%">
       <h2>⚛️ Modern Multipage Website Layout</h2>
-      <p>A modern multi-page React website with router-based navigation.</p>
+      <p>Multi-page React application with React Router navigation, reusable layout components, and responsive page structure.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
