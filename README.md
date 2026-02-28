@@ -54,12 +54,12 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
         <img src="https://img.shields.io/badge/Responsive-Mobile--First-success" />
       </p>      
       <p align="center">
-        <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
+        <a href="https://blog-umitdev.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-12-firecontact-app.git">📂 Repository<a>
+        <a href="https://github.com/Umit8098/React-Project-13-blog-app.git">📂 Repository<a>
       </p>
       <p align="center">
-        <a href="https://umitdev-firecontact.netlify.app/">
+        <a href="https://blog-umitdev.netlify.app/">
           <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
         </a>
       </p>
