@@ -90,21 +90,26 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <!-- Row 2 -->
   <tr>
     <td width="50%">
-      <h2>📌 Recipe App – Multipage</h2>
-      <p>A full recipe browsing UI with page transitions and style component architecture.</p>
+      <h2>📌 React Contacts App (Firebase)</h2>
+      <p>A modern contact management application built with React and Firebase,
+  featuring authentication-based protected routes, full CRUD operations,
+  and a clean Material UI interface.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
-        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase_Auth-FFA611?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
+        <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-Recipe-App.git">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-12-firecontact-app.git">📂 Repository<a>
       </p>
       <p align="center">
-        <a href="https://recipe-app-umitdev.netlify.app/">
-          <img src="./frontend-gif2/recipe-app.gif" height="150"/>
+        <a href="https://umitdev-firecontact.netlify.app/">
+          <img src="./frontend-gif2/firecontact-app.gif" height="150"/>
         </a>
       </p>
     </td>
