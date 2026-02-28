@@ -41,7 +41,11 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <tr>
     <td width="50%">
       <h2>📝 React Firebase Blog App</h2>
-      <p>Mobile-first, production-ready blog app with **Firebase Auth**, **Firestore CRUD**, **image upload**, **like system**, **protected routes**, and **dark/light mode persistence**.
+      <p>Mobile-first, production-ready blog app with
+    <strong>Firebase Auth</strong>, <strong>Firestore CRUD</strong>,
+    <strong>image upload</strong>, <strong>like system</strong>,
+    <strong>protected routes</strong>, and
+    <strong>dark/light mode persistence</strong>.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
@@ -56,7 +60,7 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       <p align="center">
         <a href="https://blog-umitdev.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-13-blog-app.git">📂 Repository<a>
+        <a href="https://github.com/Umit8098/React-Project-13-blog-app.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://blog-umitdev.netlify.app/">
