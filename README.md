@@ -38,7 +38,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 1 -->
   <tr>
     <td width="50%">
-      <h3>📝 React Firebase Blog App</h3>
+      <h2>📝 React Firebase Blog App</h2>
       <p>Mobile-first blog platform with Firebase Authentication, Firestore CRUD, image upload, like interactions, protected routes, and persistent dark/light mode.
       </p>
       <p align="center">
@@ -63,7 +63,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>📰 React News App (Firebase & Netlify)</h3>
+      <h2>📰 React News App (Firebase & Netlify)</h2>
       <p>React news app with Firebase Auth, protected routing, Redux Toolkit state management, and secure NewsAPI integration via Netlify Functions.
       </p>
       <p align="center">
@@ -89,7 +89,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 2 -->
   <tr>
     <td width="50%">
-      <h3>📌 React Contacts App (Firebase)</h3>
+      <h2>📌 React Contacts App (Firebase)</h2>
       <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -110,7 +110,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>🎬 Movie App – Firebase Auth</h3>
+      <h2>🎬 Movie App – Firebase Auth</h2>
       <p>Movie discovery app using Firebase Authentication and TMDB API with route-based navigation and reusable React components.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -133,7 +133,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 2 -->
   <tr>
     <td width="50%">
-      <h3>🎨 SASS Landing Page</h3>
+      <h2>🎨 SASS Landing Page</h2>
       <p>Responsive landing page built with Sass architecture, reusable style structure, and modern UI section layout.
       </p>
       <p align="center">
@@ -153,7 +153,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>🅱️ Bootstrap Single Page</h3>
+      <h2>🅱️ Bootstrap Single Page</h2>
       <p>Single-page responsive website built with Bootstrap grid system, reusable components, and clean section hierarchy.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
@@ -176,7 +176,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 4 -->
   <tr>
     <td width="50%">
-      <h3>🛒 Checkout/Shopping Card - Javascript</h3>
+      <h2>🛒 Checkout/Shopping Card - Javascript</h2>
       <p>JavaScript shopping cart application with dynamic quantity controls, price calculation logic, and LocalStorage persistence.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -194,7 +194,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>✅ ToDo App</h3>
+      <h2>✅ ToDo App</h2>
       <p>Task management app with create/update/delete flows and LocalStorage-based persistence for user tasks.
       </p>
       <p align="center">
@@ -217,7 +217,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 5 -->
   <tr>
     <td width="50%">
-      <h3>📱 iOS Calculator</h3>
+      <h2>📱 iOS Calculator</h2>
       <p>JavaScript iOS calculator clone implementing arithmetic operations, state transitions, and pixel-focused UI behavior.
       </p>
       <p align="center">
@@ -235,7 +235,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>📌 Recipe App – Multipage</h3>
+      <h2>📌 Recipe App – Multipage</h2>
       <p>Multi-page React recipe application with React Router navigation, styled-components design system, and API-based recipe browsing.
       </p>
       <p align="center">
@@ -259,7 +259,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 6 -->
   <tr>
     <td width="50%">
-      <h3>🗺️ Tour Places</h3>
+      <h2>🗺️ Tour Places</h2>
       <p>React travel listing app with reusable card components, dynamic rendering, and responsive Sass-based UI styling.
       </p>
       <p align="center">
@@ -278,7 +278,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>🗣️ Language Cards</h3>
+      <h2>🗣️ Language Cards</h2>
       <p>Interactive React flashcard app with component-based architecture and state-driven language card rendering.
       </p>
       <p align="center">
@@ -300,7 +300,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 7 -->
   <tr>
     <td width="50%">
-      <h3>📚 Tutorial FullStack (React + Django)</h3>
+      <h2>📚 Tutorial FullStack (React + Django)</h2>
       <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
       </p>
       <p align="center">
@@ -319,7 +319,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>📋 Task Tracker</h3>
+      <h2>📋 Task Tracker</h2>
       <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
       </p>
       <p align="center">
@@ -342,7 +342,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 8 -->
   <tr>
     <td width="50%">
-      <h3>🚩 Flag App – REST API</h3>
+      <h2>🚩 Flag App – REST API</h2>
       <p>JavaScript country explorer app consuming REST API data with search, filtering, and dynamic DOM rendering.
       </p>
       <p align="center">
@@ -361,7 +361,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h3>⚛️ Modern Multipage Website Layout</h3>
+      <h2>⚛️ Modern Multipage Website Layout</h2>
       <p>Multi-page React application with React Router navigation, reusable layout components, and responsive page structure.
       </p>
       <p align="center">
@@ -404,7 +404,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h3>✈️ Flight Reservation REST API</h3>
+      <h2>✈️ Flight Reservation REST API</h2>
       <p>Django REST Framework API for flight reservation workflows including scheduling, booking, and role-based endpoint access.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -423,7 +423,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
     </td>
     <!-- Card 2 -->
     <td width="50%" valign="top">
-      <h3>📝 Blog REST API</h3>
+      <h2>📝 Blog REST API</h2>
       <p>RESTful blog backend with JWT authentication and CRUD endpoints for posts, categories, and user-specific content operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -445,7 +445,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h3>👤 Personnel Management REST API</h3>
+      <h2>👤 Personnel Management REST API</h2>
       <p>Personnel management API with token-based authentication, filtering, and permission-controlled CRUD operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -463,7 +463,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
     </td>
     <!-- Card 2 -->
     <td width="50%" valign="top">
-      <h3>✅ Todo REST API</h3>
+      <h2>✅ Todo REST API</h2>
       <p>Task management REST API with authenticated CRUD endpoints and integrated API documentation via Swagger and Redoc.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -484,7 +484,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 Quiz REST API</h3>
+      <h2>📝 Quiz REST API</h2>
       <p>Quiz platform API supporting categories, question sets, answer flows, and score calculation logic.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -501,7 +501,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Stock API – REST API</h3>
+      <h2>📊 Stock API – REST API</h2>
       <p>Inventory management API with purchase/sales workflows, stock tracking, and relational data modeling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -522,7 +522,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 4 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Rent A Car REST API</h3>
+      <h2>🚗 Rent A Car REST API</h2>
       <p>Car rental backend API implementing vehicle CRUD, reservation management, and availability-based business rules.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
@@ -539,7 +539,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Google Auth API – Allauth</h3>
+      <h2>🔐 Google Auth API – Allauth</h2>
       <p>Django authentication API integrating Google OAuth2 (django-allauth) for secure social login and account flow handling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20Allauth-0A84FF?style=flat&logo=django&logoColor=white"/>
@@ -561,7 +561,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 5 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 Blog App – FullStack</h3>
+      <h2>📝 Blog App – FullStack</h2>
       <p>Full-stack Django blog app combining REST endpoints with template-based UI and complete content CRUD workflows.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
@@ -578,7 +578,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ Todo App – FullStack</h3>
+      <h2>✅ Todo App – FullStack</h2>
       <p>Full-stack task manager with Django Templates UI, authentication, and REST-backed task lifecycle operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
@@ -599,7 +599,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 6 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🌦️ Weather App – FullStack</h3>
+      <h2>🌦️ Weather App – FullStack</h2>
       <p>Weather search application with Django Templates frontend and REST API integration for location-based forecast retrieval.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
@@ -616,7 +616,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍕 Pizza App – FullStack</h3>
+      <h2>🍕 Pizza App – FullStack</h2>
       <p>Full-stack ordering system with Django Templates interface and REST API backend for pizza order processing.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
