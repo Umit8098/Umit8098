@@ -5,7 +5,7 @@ Hi, I’m **Ümit**.
 I’m a **Full-Stack Developer** building web applications with **React**, **Django**, and **PostgreSQL**.
 
 💻 **Core Stack:** JavaScript, React, Redux Toolkit, Python, Django, PostgreSQL  
-🚀 **Focus:** Frontend architecture, authentication flows, CRUD systems, and responsive UI  
+🚀 **Focus:** Frontend architecture, REST API integration, authentication flows, CRUD systems, and responsive UI  
 🌱 **Currently Learning:** TypeScript, Next.js, advanced Django patterns  
 👯 **Open to:** Junior Frontend / Full-Stack opportunities and collaboration  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/) • [Gmail](mailto:umitarat8098@gmail.com)
