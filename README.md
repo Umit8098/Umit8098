@@ -231,20 +231,21 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
     </td>
     <td width="50%">
-      <h2>🚩 Flag App – REST API</h2>
-      <p>Search and display country data through an external REST API.</p>
+      <h2>📌 Recipe App – Multipage</h2>
+      <p>A full recipe browsing UI with page transitions and style component architecture.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
+        <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project-js-Flag-App.git">📂 Repository</a>
+        <a href="https://github.com/Umit8098/React-Project-Recipe-App.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/Project-js-Flag-App/">
-          <img src="./frontend-gif1/flag-app.gif" height="150"/>
+        <a href="https://recipe-app-umitdev.netlify.app/">
+          <img src="./frontend-gif2/recipe-app.gif" height="150"/>
         </a>
       </p>
     </td>
