@@ -332,20 +332,20 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
   <!-- Row 8 -->
   <tr>
     <td width="50%">
-      <h2>⚛️ Modern Multipage Website Layout</h2>
-      <p>A modern multi-page React website with router-based navigation.</p>
+      <h2>🚩 Flag App – REST API</h2>
+      <p>Search and display country data through an external REST API.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
+        <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-Router.git">📂 Repository</a>
+        <a href="https://github.com/Umit8098/Project-js-Flag-App.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Router/">
-          <img src="./frontend-gif2/router-project.gif" height="150"/>
+        <a href="https://umit8098.github.io/Project-js-Flag-App/">
+          <img src="./frontend-gif1/flag-app.gif" height="150"/>
         </a>
       </p>
     </td>
