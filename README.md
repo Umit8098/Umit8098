@@ -350,7 +350,22 @@ I’m a **Full-Stack Developer** focused on building web applications with **Rea
       </p>
     </td>
     <td width="50%">
-      <h2>—</h2>
+      <h2>⚛️ Modern Multipage Website Layout</h2>
+      <p>A modern multi-page React website with router-based navigation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+      </p>
+      <p align="center">
+        <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/Umit8098/React-Project-Router.git">📂 Repository</a>
+      </p>
+      <p align="center">
+        <a href="https://umit8098.github.io/React-Project-Router/">
+          <img src="./frontend-gif2/router-project.gif" height="150"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
