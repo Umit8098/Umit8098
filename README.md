@@ -42,14 +42,14 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <p>Mobile-first blog platform with Firebase Authentication, Firestore CRUD, image upload, like interactions, protected routes, and persistent dark/light mode.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
-        <img src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite" />
-        <img src="https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-orange?logo=firebase" />
-        <img src="https://img.shields.io/badge/State-Redux%20Toolkit-purple" />
-        <img src="https://img.shields.io/badge/UI-MUI-007FFF?logo=mui" />
-        <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify" />
-        <img src="https://img.shields.io/badge/Theme-Dark%20%2F%20Light-black" />
-        <img src="https://img.shields.io/badge/Responsive-Mobile--First-success" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase%20Auth%20%2B%20Firestore-FFA611?style=flat&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Theme-Dark%20%2F%20Light-323330?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive-Mobile--First-2EA44F?style=flat&logoColor=white" />
       </p>      
       <p align="center">
         <a href="https://blog-umitdev.netlify.app/">🔗 Live Demo</a>
@@ -68,11 +68,11 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
-        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Router-v6?style=flat&logo=reactrouter&logoColor=white&color=CA4245"/>
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Netlify_Functions-00C7B7?style=flat&logo=netlify&logoColor=white"/>
-        <img src="https://img.shields.io/badge/News_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Netlify%20Functions-00C7B7?style=flat&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/News%20API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://news-v2-umitdev.netlify.app/">🔗 Live Demo</a>
@@ -93,10 +93,10 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
-        <img src="https://img.shields.io/badge/Firebase_Auth-FFA611?style=flat&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Router-v6?style=flat&logo=reactrouter&logoColor=white&color=CA4245"/>
+        <img src="https://img.shields.io/badge/Firebase%20Auth-FFA611?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umitdev-firecontact.netlify.app/">🔗 Live Demo</a>
@@ -115,7 +115,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://firebase-movie-app-umitdev.netlify.app/">🔗 Live Demo</a>
@@ -180,7 +180,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <p>JavaScript shopping cart application with dynamic quantity controls, price calculation logic, and LocalStorage persistence.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
+        <img src="https://img.shields.io/badge/LocalStorage-323330?style=flat&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">🔗 Live Demo</a>
@@ -199,7 +199,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
+        <img src="https://img.shields.io/badge/LocalStorage-323330?style=flat&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
@@ -240,8 +240,8 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
-        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Router-v6?style=flat&logo=reactrouter&logoColor=white&color=CA4245"/>
+        <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
@@ -324,7 +324,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat"/>
+        <img src="https://img.shields.io/badge/LocalStorage-323330?style=flat&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">🔗 Live Demo</a>
@@ -347,7 +347,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+        <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
@@ -366,7 +366,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React_Router-v6-red?style=flat&logo=reactrouter"/>
+        <img src="https://img.shields.io/badge/React%20Router-v6?style=flat&logo=reactrouter&logoColor=white&color=CA4245"/>
       </p>
       <p align="center">
         <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
@@ -407,7 +407,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>✈️ Flight Reservation REST API</h2>
       <p>A full-featured flight management API built with Django REST Framework.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
       <p align="center">
@@ -426,7 +426,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>📝 Blog REST API</h2>
       <p>A RESTful blog backend with CRUD posts, categories, and authentication.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a>
@@ -448,7 +448,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>👤 Personnel Management REST API</h2>
       <p>Personnel management API with filtering and authorization.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a>
@@ -466,7 +466,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>✅ Todo REST API</h2>
       <p>Task management API with Swagger & Redoc documentation.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a>
@@ -487,7 +487,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>📝 Quiz REST API</h2>
       <p>Quiz system with categories, questions and scoring.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a>
@@ -504,7 +504,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>📊 Stock API – REST API</h2>
       <p>Inventory management API with purchases & sales workflows.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a>
@@ -525,7 +525,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>🚗 Rent A Car REST API</h2>
       <p>Car rental CRUD backend with reservation system.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a>
@@ -542,8 +542,8 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>🔐 Google Auth API – Allauth</h2>
       <p>Google OAuth2 login integrated with Django REST Framework.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_Allauth-0A84FF?style=flat"/>
-        <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat&logo=google"/>
+        <img src="https://img.shields.io/badge/Django%20Allauth-0A84FF?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20OAuth2-4285F4?style=flat&logo=google&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a>
@@ -564,7 +564,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>📝 Blog App – FullStack</h2>
       <p>Django REST + Templates blog system with CRUD UI.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a>
@@ -581,7 +581,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>✅ Todo App – FullStack</h2>
       <p>Template-based UI + REST backend task manager.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a>
@@ -602,7 +602,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>🌦️ Weather App – FullStack</h2>
       <p>Weather search UI consuming Django REST API.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a>
@@ -619,7 +619,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       <h2>🍕 Pizza App – FullStack</h2>
       <p>Pizza order UI backed by a Django REST API.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django_Templates-092E20?style=flat"/>
+        <img src="https://img.shields.io/badge/Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a>
