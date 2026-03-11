@@ -38,7 +38,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 1 -->
   <tr>
     <td width="50%">
-      <h2>📝 React Firebase Blog App</h2>
+      <h2>📝 Blog App - React (Firebase & Netlify)</h2>
       <p>Mobile-first blog platform with Firebase Authentication, Firestore CRUD, image upload, like interactions, protected routes, and persistent dark/light mode.
       </p>
       <p align="center">
@@ -63,7 +63,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h2>📰 React News App (Firebase & Netlify)</h2>
+      <h2>📰 News App - React (Firebase & Netlify)</h2>
       <p>React news app with Firebase Auth, protected routing, Redux Toolkit state management, and secure NewsAPI integration via Netlify Functions.
       </p>
       <p align="center">
@@ -89,7 +89,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
   <!-- Row 2 -->
   <tr>
     <td width="50%">
-      <h2>📌 React Contacts App (Firebase)</h2>
+      <h2>📌 Contacts App - React (Firebase)</h2>
       <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -153,7 +153,7 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
       </p>
     </td>
     <td width="50%">
-      <h2>🅱️ Bootstrap Single Page</h2>
+      <h2>🅱️ Single Page - Bootstrap</h2>
       <p>Single-page responsive website built with Bootstrap grid system, reusable components, and clean section hierarchy.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
